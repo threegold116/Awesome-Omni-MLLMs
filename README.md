@@ -55,7 +55,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 
 # Awesome Omni-MLLMs
 Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
-## Multi-branch Omni-MLLMs
+## Multi-branch Continuous Omni-MLLMs
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/Ola-Omni/Ola.svg?style=social&label=Star) <br> [**Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment**](https://arxiv.org/abs/2502.04328) <br> | blog | 2025-02-06 | [Github](https://github.com/Ola-Omni/Ola) | - |
@@ -115,3 +115,38 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 | ![Star](https://img.shields.io/github/stars/phellonchen/X-LLM.svg?style=social&label=Star) <br> [**X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages**](https://arxiv.org/pdf/2305.04160) <br> | arXiv | 2023-05-07 | [Github](https://github.com/phellonchen/X-LLM) |-|
 | ![Star](https://img.shields.io/github/stars/mshukor/eP-ALM.svg?style=social&label=Star) <br> [**eP-ALM: Efficient Perceptual Augmentation of Language Models**](https://openaccess.thecvf.com/content/ICCV2023/papers/Shukor_eP-ALM_Efficient_Perceptual_Augmentation_of_Language_Models_ICCV_2023_paper.pdf) <br> | ICCV | 2023-03-20 | [Github](https://github.com/mshukor/eP-ALM) |-|
 <!-- | ![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star) <br> [**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**](https://arxiv.org/pdf/2311.18775) <br> | CVPR  | 2025-02-07 | [Github](https://github.com/microsoft/i-Code/tree/main/CoDi-2) |-| -->
+
+
+## Uni-branch Continuous Omni-MLLMs
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/JiazuoYu/PathWeave.svg?style=social&label=Star) <br> [**LLMs Can Evolve Continually on Modality for X-Modal Reasoning**](https://openreview.net/pdf?id=5fWY2ZlsKj) <br> | NeurIPS | 2024-10-26 | [Github](https://github.com/JiazuoYu/PathWeave) | - |
+| [**Efficient Generative Multimodal Integration (EGMI): Enabling Audio Generation from Text-Image Pairs through Alignment with Large Language Models**](https://openreview.net/pdf?id=5fWY2ZlsKj) <br> | NeurIPS<br>Workshop | 2024-10-11 | - | - |
+| ![Star](https://img.shields.io/github/stars/scofield7419/EmpathyEar.svg?style=social&label=Star) <br> [**EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot**](https://arxiv.org/pdf/2406.15177) <br> | ACL<br>Demo | 2024-06-21 | [Github](https://github.com/scofield7419/EmpathyEar) | - |
+| ![Star](https://img.shields.io/github/stars/DCDmllm/WorldGPT.svg?style=social&label=Star) <br> [**WorldGPT: Empowering LLM as Multimodal World Model**](https://arxiv.org/pdf/2404.18202) <br> | MM | 2024-04-28 | [Github](https://github.com/DCDmllm/WorldGPT) | - |
+| ![Star](https://img.shields.io/github/stars/Max-Fu/tvl.svg?style=social&label=Star) <br> [**A Touch, Vision, and Language Dataset for Multimodal Alignment**](https://openreview.net/pdf?id=tFEOOH9eH0) <br> | ICML | 2024-02-20 | [Github](https://github.com/Max-Fu/tvl) | - |
+| ![Star](https://img.shields.io/github/stars/Yui010206/CREMA.svg?style=social&label=Star) <br> [**CREMA: Generalizable and Efficient Video-Language Reasoning via Multimodal Modular Fusion**](https://arxiv.org/pdf/2402.05889) <br> | ICLR | 2024-02-08 | [Github](https://github.com/Yui010206/CREMA) | - |
+| ![Star](https://img.shields.io/github/stars/csuhan/OneLLM.svg?style=social&label=Star) <br> [**OneLLM: One Framework to Align All Modalities with Language**](https://openaccess.thecvf.com/content/CVPR2024/papers/Han_OneLLM_One_Framework_to_Align_All_Modalities_with_Language_CVPR_2024_paper.pdf) <br> | CVPR | 2023-11-30 | [Github](https://github.com/csuhan/OneLLM) | - |
+| ![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star) <br> [**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**](https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_CoDi-2_In-Context_Interleaved_and_Interactive_Any-to-Any_Generation_CVPR_2024_paper.pdf) <br> | CVPR | 2023-11-30 | [Github](https://github.com/microsoft/i-Code/tree/main/CoDi-2) | - |
+| ![Star](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter.svg?style=social&label=Star) <br> [**ImageBind-LLM: Multi-modality Instruction Tuning**](https://arxiv.org/pdf/2309.03905) <br> | arXiv | 2023-09-11 | [Github](https://github.com/OpenGVLab/LLaMA-Adapter) | - |
+| ![Star](https://img.shields.io/github/stars/yxuansu/PandaGPT.svg?style=social&label=Star) <br> [**PandaGPT: One Model To Instruction-Follow Them All**](https://aclanthology.org/2023.tllm-1.2.pdf) <br> | tllm | 2023-05-25 | [Github](https://github.com/yxuansu/PandaGPT) | - |
+
+
+## Diserect Omni-MLLMs
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+|  [**SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters**](https://arxiv.org/pdf/2412.00174) <br> | Arxiv | 2024-12-29 | - | - |
+| [**LLM Gesticulator: Leveraging Large Language Models for Scalable and Controllable Co-Speech Gesture Synthesis**](https://arxiv.org/pdf/2410.10851) <br> | Arxiv | 2024-10-06 |- | - |
+| ![Star](https://img.shields.io/github/stars/MIO-Team/MIO.svg?style=social&label=Star) <br> [**MIO: A Foundation Model on Multimodal Tokens**](https://arxiv.org/pdf/2409.17692) <br> | Arxiv | 2024-09-26 |  [Github](https://github.com/MIO-Team/MIO) | - |
+| [**OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving**](https://arxiv.org/pdf/2409.03272v1) <br> | Arxiv | 2024-09-05 | - | - |
+| ![Star](https://img.shields.io/github/stars/luomingshuang/M3GPT.svg?style=social&label=Star) <br> [**M3GPT: An Advanced Multimodal, Multitask Framework for Motion Comprehension and Generation**](https://openreview.net/pdf?id=ODbTlAs0Oj) <br> | NeurIPS | 2024-02-19 | [Github](https://github.com/luomingshuang/M3GPT) | - |
+| ![Star](https://img.shields.io/github/stars/OpenMOSS/AnyGPT.svg?style=social&label=Star) <br> [**AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling**](https://aclanthology.org/2024.acl-long.521.pdf) <br> | ACL | 2024-02-19 | [Github](https://github.com/OpenMOSS/AnyGPT) | - |
+| [**TEAL: Tokenize and Embed ALL for Multi-modal Large Language Models**](https://arxiv.org/pdf/2311.04589) <br> | Arxiv | 2023-11-08 | - | - |
+
+## Hybrid Omni-MLLMs
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons**](https://arxiv.org/pdf/2412.08442) <br> | Arxiv | 2024-12-11 |- | - |
+| [**EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions**](https://arxiv.org/pdf/2409.18042) <br> | Arxiv | 2024-09-26 |- | - |
+| [**Grounding Multimodal Large Language Models in Actions**](https://arxiv.org/pdf/2406.07904) <br> | NeurIPS | 2024-06-12 |- | - |
+| ![Star](https://img.shields.io/github/stars/embodied-generalist/embodied-generalist.svg?style=social&label=Star) <br> [**An Embodied Generalist Agent in 3D World**](https://arxiv.org/pdf/2311.12871) <br> | ICML | 2023-11-18 | [Github](https://github.com/embodied-generalist/embodied-generalist) | - |
