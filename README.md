@@ -58,6 +58,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Multi-branch Continuous Omni-MLLMs
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**M2-omni: Advancing Omni-MLLM for Comprehensive Modality Support with Competitive Performance**](https://arxiv.org/abs/2502.18778) <br> | blog | 2025-02-06 | - | - |
 | ![Star](https://img.shields.io/github/stars/Ola-Omni/Ola.svg?style=social&label=Star) <br> [**Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment**](https://arxiv.org/abs/2502.04328) <br> | blog | 2025-02-06 | [Github](https://github.com/Ola-Omni/Ola) | - |
 | ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM-o.svg?style=social&label=Star) <br> [**MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech, and Multimodal Live Streaming on Your Phone**](https://openbmb.notion.site/MiniCPM-o-2-6-A-GPT-4o-Level-MLLM-for-Vision-Speech-and-Multimodal-Live-Streaming-on-Your-Phone-185ede1b7a558042b5d5e45e6b237da9) <br> | blog | 2025-01-24 | [Github](https://github.com/OpenBMB/MiniCPM-o) | - |
 | ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-Omni-1.5.svg?style=social&label=Star) <br> [**Baichuan-Omni-1.5 Technical Report**](https://arxiv.org/abs/2501.15368) <br> | arXiv | 2025-01-26 | [Github](https://github.com/baichuan-inc/Baichuan-Omni-1.5) | - |
