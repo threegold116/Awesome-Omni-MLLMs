@@ -48,9 +48,9 @@ For more details, please refer to the paper: [From Specific-MLLMs to Omni-MLLMs:
 - 2024/12/16 The first version of our paper is available on [arxiv](https://doi.org/10.48550/arXiv.2412.11694).
 - 2024/09/22 We created this reading list repository.
 
-We use the 💡 icon to identify articles that have been added since the last version of the paper
+<!-- We use the 💡 icon to identify articles that have been added since the last version of the paper -->
 
-This reading list will be updated periodically, and if you have any suggestions or find some we missed, feel free to contact us! You can submit an issue or send an email (zchu@ir.hit.edu.cn).
+This reading list will be updated periodically, and if you have any suggestions or find some we missed, feel free to contact us! You can submit an issue or send an email (sxjiang@ir.hit.edu.cn).
 
 
 # Awesome Omni-MLLMs
