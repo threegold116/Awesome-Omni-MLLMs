@@ -151,3 +151,16 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 | [**EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions**](https://arxiv.org/pdf/2409.18042) <br> | Arxiv | 2024-09-26 |- | - |
 | [**Grounding Multimodal Large Language Models in Actions**](https://arxiv.org/pdf/2406.07904) <br> | NeurIPS | 2024-06-12 |- | - |
 | ![Star](https://img.shields.io/github/stars/embodied-generalist/embodied-generalist.svg?style=social&label=Star) <br> [**An Embodied Generalist Agent in 3D World**](https://arxiv.org/pdf/2311.12871) <br> | ICML | 2023-11-18 | [Github](https://github.com/embodied-generalist/embodied-generalist) | - |
+
+# Cross-Modality Benchmark
+## Comprehensive Benchmark/Omni-Benchmark
+|  Title  |   Name  |   Date   |   Download   |   Modality   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**OmniBench: Towards The Future of Universal Omni-Language Models**](https://arxiv.org/pdf/2409.15272) <br> | OmniBench | 2024-12-11 |- | Image,Audio,<br>Text |
+| [**The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio**](https://arxiv.org/abs/2410.12787) <br> | Curse | 2024-10-16 |- | Image,Video,<br>Audio,Text |
+| [**OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities**](https://arxiv.org/abs/2410.12219) <br> | OmnixR | 2024-10-16 |- | Image,Video,<br>Audio,Text |
+| [**video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models**](https://arxiv.org/pdf/2406.15704) <br> | SAVE    | 2024-06-22 |- | Image,Video,<br>Audio,Text |
+| [**Model Composition for Multimodal Large Language Models**](https://arxiv.org/abs/2402.12750) <br> | MCUB   | 2024-02-20 |- | Image,Audio,<br>3D,Text |
+| [**X-InstructBLIP: A Framework for Aligning Image, 3D, Audio, Video to LLMs and its Emergent Cross-Modal Reasoning**](https://arxiv.org/pdf/2409.15272) <br> | DisCRn  | 2023-11-30 |- | Image,Audio,<br>3D,Text |
+| [**Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models**](https://arxiv.org/abs/2310.05863) <br> | AVEB  | 2023-10-09 |- | Image,Video,<br>Audio,Text |
+
