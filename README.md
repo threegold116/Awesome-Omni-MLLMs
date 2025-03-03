@@ -153,14 +153,25 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 | ![Star](https://img.shields.io/github/stars/embodied-generalist/embodied-generalist.svg?style=social&label=Star) <br> [**An Embodied Generalist Agent in 3D World**](https://arxiv.org/pdf/2311.12871) <br> | ICML | 2023-11-18 | [Github](https://github.com/embodied-generalist/embodied-generalist) | - |
 
 # Cross-Modality Benchmark
-## Comprehensive Benchmark/Omni-Benchmark
+## Comprehensive Understanding Benchmark
 |  Title  |   Name  |   Date   |   Download   |   Modality   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs**](https://arxiv.org/abs/2502.04326) <br> | WorldSense | 2025-02-06 |- | Image,Video,<br>Audio,Text |
+| [**AVTrustBench: Assessing and Enhancing Reliability and Robustness in Audio-Visual LLMs**](https://arxiv.org/abs/2501.02135) <br> | AVTrustBench | 2025-01-03 |- | Image,Video,<br>Audio,Text |
+| [**Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback**](https://arxiv.org/pdf/2412.15838) <br> | WorldSense | 2024-12-20 |- | Image,Video,<br>Audio,Text |
 | [**OmniBench: Towards The Future of Universal Omni-Language Models**](https://arxiv.org/pdf/2409.15272) <br> | OmniBench | 2024-12-11 |- | Image,Audio,<br>Text |
+| [**AV-Odyssey Bench: Can Your Multimodal LLMs Really Understand Audio-Visual Information?**](https://arxiv.org/abs/2412.02611) <br> | AV-Odyssey<br>Bench | 2024-12-03 |- | Image,Video,<br>Audio,Text |
+| [**LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos**](https://arxiv.org/abs/2411.19772) <br> | LongVALE | 2024-10-16 |- | Image,Video,<br>Audio,Text |
 | [**The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio**](https://arxiv.org/abs/2410.12787) <br> | Curse | 2024-10-16 |- | Image,Video,<br>Audio,Text |
 | [**OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities**](https://arxiv.org/abs/2410.12219) <br> | OmnixR | 2024-10-16 |- | Image,Video,<br>Audio,Text |
 | [**video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models**](https://arxiv.org/pdf/2406.15704) <br> | SAVE    | 2024-06-22 |- | Image,Video,<br>Audio,Text |
 | [**Model Composition for Multimodal Large Language Models**](https://arxiv.org/abs/2402.12750) <br> | MCUB   | 2024-02-20 |- | Image,Audio,<br>3D,Text |
+| [**A Touch, Vision, and Language Dataset for Multimodal Alignment**](https://arxiv.org/abs/2402.13232) <br> | TVL<br>Benchmark   | 2024-02-20 |- | Image,Touch,<br>Text |
 | [**X-InstructBLIP: A Framework for Aligning Image, 3D, Audio, Video to LLMs and its Emergent Cross-Modal Reasoning**](https://arxiv.org/pdf/2409.15272) <br> | DisCRn  | 2023-11-30 |- | Image,Audio,<br>3D,Text |
 | [**Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models**](https://arxiv.org/abs/2310.05863) <br> | AVEB  | 2023-10-09 |- | Image,Video,<br>Audio,Text |
 
+## Down-Streaming Understanding Benchmark
+|  Title  |   Name  |   Date   |   Download   |   Modality   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Recognizing Everything from All Modalities at Once: Grounded Multimodal Universal Information Extraction**](https://arxiv.org/abs/2502.04326) <br> |  MUIE | 2024-06-06 |- | Image,Video,<br>Audio,Text |
+| [**Dense-Localizing Audio-Visual Events in Untrimmed Videos: A Large-Scale Benchmark and Baseline**](https://arxiv.org/abs/2502.04326) <br> |  UnAV-100<br>test | 2023-03-22 |- | Video,Audio,<br>Text |
