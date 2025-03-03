@@ -158,7 +158,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs**](https://arxiv.org/abs/2502.04326) <br> | WorldSense | 2025-02-06 |- | Image,Video,<br>Audio,Text |
 | [**AVTrustBench: Assessing and Enhancing Reliability and Robustness in Audio-Visual LLMs**](https://arxiv.org/abs/2501.02135) <br> | AVTrustBench | 2025-01-03 |- | Image,Video,<br>Audio,Text |
-| [**Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback**](https://arxiv.org/pdf/2412.15838) <br> | WorldSense | 2024-12-20 |- | Image,Video,<br>Audio,Text |
+| [**Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback**](https://arxiv.org/pdf/2412.15838) <br> | AMU | 2024-12-20 |- | Image,Video,<br>Audio,Text |
 | [**OmniBench: Towards The Future of Universal Omni-Language Models**](https://arxiv.org/pdf/2409.15272) <br> | OmniBench | 2024-12-11 |- | Image,Audio,<br>Text |
 | [**AV-Odyssey Bench: Can Your Multimodal LLMs Really Understand Audio-Visual Information?**](https://arxiv.org/abs/2412.02611) <br> | AV-Odyssey<br>Bench | 2024-12-03 |- | Image,Video,<br>Audio,Text |
 | [**LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos**](https://arxiv.org/abs/2411.19772) <br> | LongVALE | 2024-10-16 |- | Image,Video,<br>Audio,Text |
