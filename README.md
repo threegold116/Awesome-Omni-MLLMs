@@ -58,8 +58,11 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Multi-branch Continuous Omni-MLLMs
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**M2-omni: Advancing Omni-MLLM for Comprehensive Modality Support with Competitive Performance**](https://arxiv.org/abs/2502.18778) <br> | blog | 2025-02-06 | - | - |
-| ![Star](https://img.shields.io/github/stars/Ola-Omni/Ola.svg?style=social&label=Star) <br> [**Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment**](https://arxiv.org/abs/2502.04328) <br> | blog | 2025-02-06 | [Github](https://github.com/Ola-Omni/Ola) | - |
+| ![Star](https://img.shields.io/github/stars/microsoft/PhiCookBook.svg?style=social&label=Star) <br> [**Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs**](https://arxiv.org/pdf/2503.01743) <br> | arXiv | 2025-03-03 | [Github](https://github.com/microsoft/PhiCookBook/) | - |
+| ![Star](https://img.shields.io/github/stars/microsoft/PhiCookBook.svg?style=social&label=Star) <br> [**Nexus-O: An Omni-Perceptive And -Interactive Model for Language, Audio, And Vision**](https://arxiv.org/pdf/2503.01879) <br> | arXiv | 2025-02-26 | | - |
+| ![Star](https://img.shields.io/github/stars/infinigence/Infini-Megrez-Omni.svg?style=social&label=Star) <br> [**Megrez-Omni Technical Report**](https://arxiv.org/pdf/2503.01743) <br> | arXiv | 2025-02-19 | [Github](https://github.com/infinigence/Infini-Megrez-Omni) | - |
+| [**M2-omni: Advancing Omni-MLLM for Comprehensive Modality Support with Competitive Performance**](https://arxiv.org/abs/2502.18778) <br> | arXiv | 2025-02-06 | - | - |
+| ![Star](https://img.shields.io/github/stars/Ola-Omni/Ola.svg?style=social&label=Star) <br> [**Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment**](https://arxiv.org/abs/2502.04328) <br> | arXiv | 2025-02-06 | [Github](https://github.com/Ola-Omni/Ola) | - |
 | ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM-o.svg?style=social&label=Star) <br> [**MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech, and Multimodal Live Streaming on Your Phone**](https://openbmb.notion.site/MiniCPM-o-2-6-A-GPT-4o-Level-MLLM-for-Vision-Speech-and-Multimodal-Live-Streaming-on-Your-Phone-185ede1b7a558042b5d5e45e6b237da9) <br> | blog | 2025-01-24 | [Github](https://github.com/OpenBMB/MiniCPM-o) | - |
 | ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-Omni-1.5.svg?style=social&label=Star) <br> [**Baichuan-Omni-1.5 Technical Report**](https://arxiv.org/abs/2501.15368) <br> | arXiv | 2025-01-26 | [Github](https://github.com/baichuan-inc/Baichuan-Omni-1.5) | - |
 | ![Star](https://img.shields.io/github/stars/HumanMLLM/Omni-Emotion.svg?style=social&label=Star) <br> [**Omni-Emotion: Extending Video MLLM with Detailed Face and Audio Modeling for Multimodal Emotion Analysis**](https://arxiv.org/pdf/2501.04561) <br> | arXiv | 2025-01-16 | [Github](https://github.com/HumanMLLM/Omni-Emotion) | - |
@@ -156,7 +159,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Comprehensive Understanding Benchmark
 |  Title  |   Name  |   Date   |   Download   |   Modality   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs**](https://arxiv.org/abs/2502.04326) <br> | WorldSense | 2025-02-06 |- | Image,Video,<br>Audio,Text |
+| [**WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs**](https://arxiv.org/abs/2502.04326) <br> | WorldSense | 2025-02-06 |[Huggingface](https://huggingface.co/datasets/honglyhly/WorldSense) | Image,Video,<br>Audio,Text |
 | [**AVTrustBench: Assessing and Enhancing Reliability and Robustness in Audio-Visual LLMs**](https://arxiv.org/abs/2501.02135) <br> | AVTrustBench | 2025-01-03 |- | Image,Video,<br>Audio,Text |
 | [**Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback**](https://arxiv.org/pdf/2412.15838) <br> | AMU | 2024-12-20 |- | Image,Video,<br>Audio,Text |
 | [**OmniBench: Towards The Future of Universal Omni-Language Models**](https://arxiv.org/pdf/2409.15272) <br> | OmniBench | 2024-12-11 |- | Image,Audio,<br>Text |
