@@ -58,9 +58,10 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Multi-branch Continuous Omni-MLLMs
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcing Learning**](https://arxiv.org/pdf/2503.05379) <br> | arXiv | 2025-03-07 | - | - |
 | ![Star](https://img.shields.io/github/stars/microsoft/PhiCookBook.svg?style=social&label=Star) <br> [**Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs**](https://arxiv.org/pdf/2503.01743) <br> | arXiv | 2025-03-03 | [Github](https://github.com/microsoft/PhiCookBook/) | - |
 | ![Star](https://img.shields.io/github/stars/microsoft/PhiCookBook.svg?style=social&label=Star) <br> [**Nexus-O: An Omni-Perceptive And -Interactive Model for Language, Audio, And Vision**](https://arxiv.org/pdf/2503.01879) <br> | arXiv | 2025-02-26 | | - |
-| ![Star](https://img.shields.io/github/stars/infinigence/Infini-Megrez-Omni.svg?style=social&label=Star) <br> [**Megrez-Omni Technical Report**](https://arxiv.org/pdf/2503.01743) <br> | arXiv | 2025-02-19 | [Github](https://github.com/infinigence/Infini-Megrez-Omni) | - |
+| ![Star](https://img.shields.io/github/stars/infinigence/Infini-Megrez-Omni.svg?style=social&label=Star) <br> [**Megrez-Omni Technical Report**](https://www.arxiv.org/pdf/2502.15803) <br> | arXiv | 2025-02-19 | [Github](https://github.com/infinigence/Infini-Megrez-Omni) | - |
 | [**M2-omni: Advancing Omni-MLLM for Comprehensive Modality Support with Competitive Performance**](https://arxiv.org/abs/2502.18778) <br> | arXiv | 2025-02-06 | - | - |
 | ![Star](https://img.shields.io/github/stars/Ola-Omni/Ola.svg?style=social&label=Star) <br> [**Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment**](https://arxiv.org/abs/2502.04328) <br> | arXiv | 2025-02-06 | [Github](https://github.com/Ola-Omni/Ola) | - |
 | ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-Omni-1.5.svg?style=social&label=Star) <br> [**Baichuan-Omni-1.5 Technical Report**](https://arxiv.org/abs/2501.15368) <br> | arXiv | 2025-01-26 | [Github](https://github.com/baichuan-inc/Baichuan-Omni-1.5) | - |
