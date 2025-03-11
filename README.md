@@ -58,6 +58,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Multi-branch Continuous Omni-MLLMs
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Adaptive Audio-Visual Speech Recognition via Matryoshka-Based Multimodal LLMs**](https://arxiv.org/pdf/2503.06362) <br> | arXiv | 2025-03-09 | - | - |
 | [**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcing Learning**](https://arxiv.org/pdf/2503.05379) <br> | arXiv | 2025-03-07 | - | - |
 | ![Star](https://img.shields.io/github/stars/microsoft/PhiCookBook.svg?style=social&label=Star) <br> [**Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs**](https://arxiv.org/pdf/2503.01743) <br> | arXiv | 2025-03-03 | [Github](https://github.com/microsoft/PhiCookBook/) | - |
 | ![Star](https://img.shields.io/github/stars/microsoft/PhiCookBook.svg?style=social&label=Star) <br> [**Nexus-O: An Omni-Perceptive And -Interactive Model for Language, Audio, And Vision**](https://arxiv.org/pdf/2503.01879) <br> | arXiv | 2025-02-26 | | - |
