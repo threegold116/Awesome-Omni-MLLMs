@@ -74,7 +74,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 | ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA.svg?style=social&label=Star) <br> [**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**](https://arxiv.org/pdf/2501.01957) <br> | arXiv | 2024-12-20 | [Github](https://github.com/VITA-MLLM/VITA) | - |
 | ![Star](https://img.shields.io/github/stars/dvlab-research/Lyra.svg?style=social&label=Star) <br> [**Lyra: An Efficient and Speech-Centric Framework for Omni-Cognition**](https://arxiv.org/pdf/2412.09501) <br> | arXiv | 2024-12-12 | [Github](https://github.com/dvlab-research/Lyra) | - |
 | ![Star](https://img.shields.io/github/stars/shansongliu/MuMu-LLaMA.svg?style=social&label=Star) <br> [**MuMu-LLaMA: Multi-modal Music Understanding and Generation via Large Language Models**](https://arxiv.org/pdf/2412.06660) <br> | arXiv | 2024-12-09 | [Github](https://github.com/shansongliu/MuMu-LLaMA) | - |
-| [**LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos**](https://arxiv.org/pdf/2411.19772) <br> | arXiv | 2024-11-29 | -| - |
+| [**LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos**](https://arxiv.org/pdf/2411.19772) <br> | CVPR | 2024-11-29 | -| - |
 | [**Spider: Any-to-Many Multimodal LLM**](https://arxiv.org/pdf/2411.09439) <br> | arXiv | 2024-11-14 | - | - |
 | [**Towards Multi-Modal Mastery: A 4.5B Parameter Truly Multi-Modal Small Language Model**](https://arxiv.org/pdf/2411.05903) <br> | arXiv | 2024-11-08 |- | - |
 | ![Star](https://img.shields.io/github/stars/CAD-MLLM/CAD-MLLM.svg?style=social&label=Star) <br> [**CAD-MLLM: Unifying Multimodality-ConditionedCAD Generation With MLLM**](https://arxiv.org/pdf/2411.04954) <br> | arXiv | 2024-11-07 | [Github](https://github.com/CAD-MLLM/CAD-MLLM) | - |
@@ -84,7 +84,8 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 |  [**Aligned Better, Listen Better For Audio-Visual Large Language Models**](https://openreview.net/pdf?id=1SYUKPeM12) <br> | ICLR | 2024-10-13 | - | - |
 | ![Star](https://img.shields.io/github/stars/westlake-baichuan-mllm/bc-omni.svg?style=social&label=Star) <br> [**Baichuan-Omni Technical Report**](https://arxiv.org/pdf/2410.08565) <br> | arXiv | 2024-10-11 | [Github](https://github.com/westlake-baichuan-mllm/bc-omni) | - |
 | [**Efficient Generative Multimodal Integration (EGMI): Enabling Audio Generation from Text-Image Pairs through Alignment with Large Language Models**](https://openreview.net/pdf?id=5fWY2ZlsKj) <br> | NeurIPS<br>Workshop | 2024-10-11 | - | - |
-|   [**EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions**](https://arxiv.org/pdf/2409.18042) <br> | arXiv | 2024-09-26 | -| - |
+| [**Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization**](https://arxiv.org/pdf/2410.06682) <br> | arXiv | 2024-10-09 | - | - |
+|   [**EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions**](https://arxiv.org/pdf/2409.18042) <br> | CVPR | 2024-09-26 | -| - |
 |  [**Large Language Models Are Strong Audio-Visual Speech Recognition Learners**](https://arxiv.org/abs/2409.12319) <br> | ICASSP | 2024-09-18 | -| - |
 | ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA.svg?style=social&label=Star) <br> [**VITA: Towards Open-Source Interactive Omni Multimodal LLM**](https://arxiv.org/pdf/2408.05211) <br> | arXiv | 2024-08-05 | [Github](https://github.com/VITA-MLLM/VITA) | - |
 | ![Star](https://img.shields.io/github/stars/lzw-lzw/UnifiedMLLM.svg?style=social&label=Star) <br> [**UnifiedMLLM: Enabling Unified Representation for Multi-modal Multi-tasks With Large Language Model**](https://arxiv.org/pdf/2408.02503) <br> | arXiv | 2024-08-03 | [Github](https://github.com/lzw-lzw/UnifiedMLLM) | - |
@@ -162,6 +163,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Comprehensive Understanding Benchmark
 |  Title  |   Name  |   Date   |   Download   |   Modality   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**DAVE : Diagnostic benchmark for Audio Visual Evaluation**](https://arxiv.org/pdf/2503.09321) <br> | DAVE | 2025-03-12 | -- | Video,Audio,<br>Text |
 | [**WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs**](https://arxiv.org/abs/2502.04326) <br> | WorldSense | 2025-02-06 |[Huggingface](https://huggingface.co/datasets/honglyhly/WorldSense) | Image,Video,<br>Audio,Text |
 | [**AVTrustBench: Assessing and Enhancing Reliability and Robustness in Audio-Visual LLMs**](https://arxiv.org/abs/2501.02135) <br> | AVTrustBench | 2025-01-03 |- | Image,Video,<br>Audio,Text |
 | [**Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback**](https://arxiv.org/pdf/2412.15838) <br> | AMU | 2024-12-20 |- | Image,Video,<br>Audio,Text |
@@ -169,13 +171,13 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 | [**AV-Odyssey Bench: Can Your Multimodal LLMs Really Understand Audio-Visual Information?**](https://arxiv.org/abs/2412.02611) <br> | AV-Odyssey<br>Bench | 2024-12-03 |- | Image,Video,<br>Audio,Text |
 | [**LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos**](https://arxiv.org/abs/2411.19772) <br> | LongVALE | 2024-10-16 |- | Image,Video,<br>Audio,Text |
 | [**The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio**](https://arxiv.org/abs/2410.12787) <br> | Curse | 2024-10-16 |- | Image,Video,<br>Audio,Text |
-| [**OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities**](https://arxiv.org/abs/2410.12219) <br> | OmnixR | 2024-10-16 |- | Image,Video,<br>Audio,Text |
+| [**OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities**](https://arxiv.org/abs/2410.12219) <br> | OmnixR | 2024-10-16 |[Huggingface](https://huggingface.co/datasets/Lichang-Chen/omnixR-data) | Image,Video,<br>Audio,Text |
 | [**ShareGPT-4o: Comprehensive Multimodal Annotations With GPT-4o**](https://sharegpt4o.github.io/) <br> | ShareGPT-4o | 2024-08-06 |[Huggingface](https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o) | Image,Video,<br>Audio,Text |
-| [**video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models**](https://arxiv.org/pdf/2406.15704) <br> | SAVE    | 2024-06-22 |- | Image,Video,<br>Audio,Text |
+| [**video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models**](https://arxiv.org/pdf/2406.15704) <br> | SAVE    | 2024-06-22 |[Huggingface](https://huggingface.co/datasets/tsinghua-ee/SAVEBench) | Image,Video,<br>Audio,Text |
 | [**Model Composition for Multimodal Large Language Models**](https://arxiv.org/abs/2402.12750) <br> | MCUB   | 2024-02-20 |- | Image,Audio,<br>3D,Text |
 | [**A Touch, Vision, and Language Dataset for Multimodal Alignment**](https://arxiv.org/abs/2402.13232) <br> | TVL<br>Benchmark   | 2024-02-20 |- | Image,Touch,<br>Text |
 | [**X-InstructBLIP: A Framework for Aligning Image, 3D, Audio, Video to LLMs and its Emergent Cross-Modal Reasoning**](https://arxiv.org/pdf/2409.15272) <br> | DisCRn  | 2023-11-30 |- | Image,Audio,<br>3D,Text |
-| [**Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models**](https://arxiv.org/abs/2310.05863) <br> | AVEB  | 2023-10-09 |- | Image,Video,<br>Audio,Text |
+
 
 ## Down-Streaming Understanding Benchmark
 |  Title  |   Name  |   Date   |   Download   |   Modality   |
