@@ -167,16 +167,16 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 | [**WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs**](https://arxiv.org/abs/2502.04326) <br> | WorldSense | 2025-02-06 |[Huggingface](https://huggingface.co/datasets/honglyhly/WorldSense) | Image,Video,<br>Audio,Text |
 | [**AVTrustBench: Assessing and Enhancing Reliability and Robustness in Audio-Visual LLMs**](https://arxiv.org/abs/2501.02135) <br> | AVTrustBench | 2025-01-03 |- | Image,Video,<br>Audio,Text |
 | [**Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback**](https://arxiv.org/pdf/2412.15838) <br> | AMU | 2024-12-20 |- | Image,Video,<br>Audio,Text |
-| [**OmniBench: Towards The Future of Universal Omni-Language Models**](https://arxiv.org/pdf/2409.15272) <br> | OmniBench | 2024-12-11 |- | Image,Audio,<br>Text |
-| [**AV-Odyssey Bench: Can Your Multimodal LLMs Really Understand Audio-Visual Information?**](https://arxiv.org/abs/2412.02611) <br> | AV-Odyssey<br>Bench | 2024-12-03 |- | Image,Video,<br>Audio,Text |
+| [**OmniBench: Towards The Future of Universal Omni-Language Models**](https://arxiv.org/pdf/2409.15272) <br> | OmniBench | 2024-12-11 |[Huggingface](https://huggingface.co/datasets/m-a-p/OmniBench) | Image,Audio,<br>Text |
+| [**AV-Odyssey Bench: Can Your Multimodal LLMs Really Understand Audio-Visual Information?**](https://arxiv.org/abs/2412.02611) <br> | AV-Odyssey<br>Bench | 2024-12-03 |[Huggingface](https://huggingface.co/datasets/AV-Odyssey/AV_Odyssey_Bench)  | Image,Video,<br>Audio,Text |
 | [**LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos**](https://arxiv.org/abs/2411.19772) <br> | LongVALE | 2024-10-16 |- | Image,Video,<br>Audio,Text |
-| [**The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio**](https://arxiv.org/abs/2410.12787) <br> | Curse | 2024-10-16 |- | Image,Video,<br>Audio,Text |
+| [**The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio**](https://arxiv.org/abs/2410.12787) <br> | Curse | 2024-10-16 |[Huggingface](https://huggingface.co/datasets/DAMO-NLP-SG/CMM)  | Image,Video,<br>Audio,Text |
 | [**OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities**](https://arxiv.org/abs/2410.12219) <br> | OmnixR | 2024-10-16 |[Huggingface](https://huggingface.co/datasets/Lichang-Chen/omnixR-data) | Image,Video,<br>Audio,Text |
 | [**ShareGPT-4o: Comprehensive Multimodal Annotations With GPT-4o**](https://sharegpt4o.github.io/) <br> | ShareGPT-4o | 2024-08-06 |[Huggingface](https://huggingface.co/datasets/OpenGVLab/ShareGPT-4o) | Image,Video,<br>Audio,Text |
 | [**video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models**](https://arxiv.org/pdf/2406.15704) <br> | SAVE    | 2024-06-22 |[Huggingface](https://huggingface.co/datasets/tsinghua-ee/SAVEBench) | Image,Video,<br>Audio,Text |
 | [**Model Composition for Multimodal Large Language Models**](https://arxiv.org/abs/2402.12750) <br> | MCUB   | 2024-02-20 |- | Image,Audio,<br>3D,Text |
 | [**A Touch, Vision, and Language Dataset for Multimodal Alignment**](https://arxiv.org/abs/2402.13232) <br> | TVL<br>Benchmark   | 2024-02-20 |- | Image,Touch,<br>Text |
-| [**X-InstructBLIP: A Framework for Aligning Image, 3D, Audio, Video to LLMs and its Emergent Cross-Modal Reasoning**](https://arxiv.org/pdf/2409.15272) <br> | DisCRn  | 2023-11-30 |- | Image,Audio,<br>3D,Text |
+| [**X-InstructBLIP: A Framework for Aligning Image, 3D, Audio, Video to LLMs and its Emergent Cross-Modal Reasoning**](https://arxiv.org/pdf/2311.18799) <br> | DisCRn  | 2023-11-30 |- | Image,Audio,<br>3D,Text |
 
 
 ## Down-Streaming Understanding Benchmark
