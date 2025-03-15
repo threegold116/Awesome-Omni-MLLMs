@@ -182,5 +182,12 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Down-Streaming Understanding Benchmark
 |  Title  |   Name  |   Date   |   Download   |   Modality   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Recognizing Everything from All Modalities at Once: Grounded Multimodal Universal Information Extraction**](https://arxiv.org/abs/2502.04326) <br> |  MUIE | 2024-06-06 |- | Image,Video,<br>Audio,Text |
-| [**Dense-Localizing Audio-Visual Events in Untrimmed Videos: A Large-Scale Benchmark and Baseline**](https://arxiv.org/abs/2502.04326) <br> |  UnAV-100<br>test | 2023-03-22 |- | Video,Audio,<br>Text |
+| [**Recognizing Everything from All Modalities at Once: Grounded Multimodal Universal Information Extraction**](https://arxiv.org/pdf/2406.03701) <br> |  MUIE | 2024-06-06 |- | Image,Video,<br>Audio,Text |
+| [**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**](https://arxiv.org/pdf/2304.08345) <br> |  VALOR-32K | 2023-04-17 |[BaiduDisk](https://pan.baidu.com/share/init?surl=aHWCwUOX1lJi0lSsmJb6Tw&pwd=e3ve)<br>[BaiduDisk](https://pan.baidu.com/share/init?surl=Hq6VvAdKlPcq7j737ZXdbA&pwd=qiw1) | Video,Audio,<br>Text |
+| [**Dense-Localizing Audio-Visual Events in Untrimmed Videos: A Large-Scale Benchmark and Baseline**](https://arxiv.org/pdf/2303.12930) <br> |  UnAV-100<br>test | 2023-03-22 |- | Video,Audio,<br>Text |
+| [**AVQA: A Dataset for Audio-Visual Question Answering on Videos**](https://dl.acm.org/doi/10.1145/3503161.3548291) <br> |  AVQA | 2022-10-10 |[Dataset](https://mn.cs.tsinghua.edu.cn/avqa/) | Video,Audio,<br>Text |
+| [**Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing**](https://arxiv.org/pdf/2007.10558) <br> |  LLP | 2022-07-21 |--| Video,Audio,<br>Text |
+| [**Learning to Answer Questions in Dynamic Audio-Visual Scenarios**](https://arxiv.org/pdf/2203.14072) <br> |  Music-AVQA | 2022-05-26 |[Google Driver](https://drive.google.com/drive/folders/1WAryZZE0srLIZG8VHl22uZ3tpbGHtsrQ)<br>[Github](https://github.com/GeWu-Lab/MUSIC-AVQA/tree/main/data/json) | Video,Audio,<br>Text |
+| [**Pano-AVQA: Grounded Audio-Visual Question Answering on 360 Videos**](https://arxiv.org/pdf/2110.05122) <br> |  Pano-AVQA | 2021-10-11 |-- | Video,Audio,<br>Text |
+| [**VGGSound: A Large-scale Audio-Visual Dataset**](https://arxiv.org/pdf/2004.14368) <br> |  VGGSound | 2020-04-29 |[Huggingface](https://huggingface.co/datasets/Loie/VGGSound) | Video,Audio,<br>Text |
+| [**Audio Visual Scene-Aware Dialog**](https://arxiv.org/pdf/1901.09107) <br> |  AVSD | 2019-01-25 |[Dataset](https://video-dialog.com/) | Video,Audio,<br>Text |
