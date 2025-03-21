@@ -58,6 +58,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Multi-branch Continuous Omni-MLLMs
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Vision-Speech Models: Teaching Speech Models to Converse about Images**](https://arxiv.org/pdf/2503.15633) <br> | arXiv | 2025-03-20 | -  | - |
 |  ![Star](https://img.shields.io/github/stars/HumanMLLM/ViSpeak.svg?style=social&label=Star) <br> [**ViSpeak: Visual Instruction Feedback in Streaming Videos**](https://arxiv.org/pdf/2503.12769) <br> | arXiv | 2025-03-17 | [Github](https://github.com/HumanMLLM/ViSpeak/)  | - |
 |  ![Star](https://img.shields.io/github/stars/GeWu-Lab/Crab.svg?style=social&label=Star) <br> [**Crab: A Unified Audio-Visual Scene Understanding Model with Explicit Cooperation**](https://arxiv.org/pdf/2503.13068v1) <br> | CVPR | 2025-03-17 | [Github](https://github.com/GeWu-Lab/Crab/)  | - |
 |  ![Star](https://img.shields.io/github/stars/JeongHun0716/MMS-LLaMA.svg?style=social&label=Star) <br> [**MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens**](https://arxiv.org/pdf/2503.11315) <br> | arXiv | 2025-03-14 | [Github](https://github.com/JeongHun0716/MMS-LLaMA/)  | - |
