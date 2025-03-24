@@ -55,7 +55,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 # Awesome Omni-MLLMs
 Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Multi-branch Continuous Omni-MLLMs
-|  Title  |   Venue  |   Date   |   Code   |   Demo   |Cross-modal<br>Understanding|Cross-modal<br>Generation|
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |Cross(Omni)-modal<br>Understanding|Cross(Omni)-modal<br>Generation|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |  ![Star](https://img.shields.io/github/stars/kyutai-labs/moshivis.svg?style=social&label=Star) <br>[**Vision-Speech Models: Teaching Speech Models to Converse about Images**](https://arxiv.org/pdf/2503.15633) <br> | arXiv | 2025-03-20 | [Github](https://github.com/kyutai-labs/moshivis/)   | - | ✅ | ✅|
 |  ![Star](https://img.shields.io/github/stars/HumanMLLM/ViSpeak.svg?style=social&label=Star) <br> [**ViSpeak: Visual Instruction Feedback in Streaming Videos**](https://arxiv.org/pdf/2503.12769) <br> | arXiv | 2025-03-17 | [Github](https://github.com/HumanMLLM/ViSpeak/)  | - | ✅ | ✅|
@@ -79,7 +79,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 | ![Star](https://img.shields.io/github/stars/dvlab-research/Lyra.svg?style=social&label=Star) <br> [**Lyra: An Efficient and Speech-Centric Framework for Omni-Cognition**](https://arxiv.org/pdf/2412.09501) <br> | arXiv | 2024-12-12 | [Github](https://github.com/dvlab-research/Lyra) | - | ✅ | ❌|
 | ![Star](https://img.shields.io/github/stars/shansongliu/MuMu-LLaMA.svg?style=social&label=Star) <br> [**MuMu-LLaMA: Multi-modal Music Understanding and Generation via Large Language Models**](https://arxiv.org/pdf/2412.06660) <br> | arXiv | 2024-12-09 | [Github](https://github.com/shansongliu/MuMu-LLaMA) | - | ✅ | ✅|
 | [**LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos**](https://arxiv.org/pdf/2411.19772) <br> | CVPR | 2024-11-29 | -| - | ✅ | ❌|
-| [**Spider: Any-to-Many Multimodal LLM**](https://arxiv.org/pdf/2411.09439) <br> | arXiv | 2024-11-14 | - | - |
+| [**Spider: Any-to-Many Multimodal LLM**](https://arxiv.org/pdf/2411.09439) <br> | arXiv | 2024-11-14 | - | - | ✅ | ✅|
 | [**Towards Multi-Modal Mastery: A 4.5B Parameter Truly Multi-Modal Small Language Model**](https://arxiv.org/pdf/2411.05903) <br> | arXiv | 2024-11-08 |- | - | ✅ | ✅|
 | ![Star](https://img.shields.io/github/stars/CAD-MLLM/CAD-MLLM.svg?style=social&label=Star) <br> [**CAD-MLLM: Unifying Multimodality-ConditionedCAD Generation With MLLM**](https://arxiv.org/pdf/2411.04954) <br> | arXiv | 2024-11-07 | [Github](https://github.com/CAD-MLLM/CAD-MLLM) | - | ✅ | ✅|
 | ![Star](https://img.shields.io/github/stars/JiazuoYu/PathWeave.svg?style=social&label=Star) <br> [**LLMs Can Evolve Continually on Modality for X-Modal Reasoning**](https://arxiv.org/pdf/2410.20178) <br> | NeurIPS | 2024-10-26 | [Github](https://github.com/JiazuoYu/PathWeave) | - | ✅ | ❌|
