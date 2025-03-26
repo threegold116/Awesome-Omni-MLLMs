@@ -51,7 +51,7 @@ For more details, please refer to the paper: [From Specific-MLLMs to Omni-MLLMs:
 <!-- We use the 💡 icon to identify articles that have been added since the last version of the paper -->
 
 This reading list will be updated periodically, and if you have any suggestions or find some we missed, feel free to contact us! You can submit an issue or send an email (sxjiang@ir.hit.edu.cn).
-❌
+
 # Awesome Omni-MLLMs
 Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Multi-branch Continuous Omni-MLLMs
@@ -67,6 +67,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 | ![Star](https://img.shields.io/github/stars/microsoft/PhiCookBook.svg?style=social&label=Star) <br> [**Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs**](https://arxiv.org/pdf/2503.01743) <br> | arXiv | 2025-03-03 | [Github](https://github.com/microsoft/PhiCookBook/) | - | ✅ | ❌|
 | [**Nexus-O: An Omni-Perceptive And -Interactive Model for Language, Audio, And Vision**](https://arxiv.org/pdf/2503.01879) <br> | arXiv | 2025-02-26 | | - | ✅ | ❌|
 | ![Star](https://img.shields.io/github/stars/infinigence/Infini-Megrez-Omni.svg?style=social&label=Star) <br> [**Megrez-Omni Technical Report**](https://www.arxiv.org/pdf/2502.15803) <br> | arXiv | 2025-02-19 | [Github](https://github.com/infinigence/Infini-Megrez-Omni) | - | ✅ | ❌|
+| [**Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark**](https://arxiv.org/pdf/2502.04976) <br> | WWW | 2025-02-07 | - | - | ✅ | ✅|
 | [**M2-omni: Advancing Omni-MLLM for Comprehensive Modality Support with Competitive Performance**](https://arxiv.org/pdf/2502.18778) <br> | arXiv | 2025-02-06 | - | - | ✅ | ✅|
 | ![Star](https://img.shields.io/github/stars/Ola-Omni/Ola.svg?style=social&label=Star) <br> [**Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment**](https://arxiv.org/pdf/2502.04328) <br> | arXiv | 2025-02-06 | [Github](https://github.com/Ola-Omni/Ola) | - | ✅ | ✅|
 | ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-Omni-1.5.svg?style=social&label=Star) <br> [**Baichuan-Omni-1.5 Technical Report**](https://arxiv.org/abs/2501.15368) <br> | arXiv | 2025-01-26 | [Github](https://github.com/baichuan-inc/Baichuan-Omni-1.5) | - | ✅ | ❌|
