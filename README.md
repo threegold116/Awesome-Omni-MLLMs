@@ -57,6 +57,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Multi-branch Continuous Omni-MLLMs
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |Cross(Omni)-modal<br>Understanding|Cross(Omni)-modal<br>Generation|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|  ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.5-Omni.svg?style=social&label=Star) <br>[**Qwen2.5-Omni Technical Report**](https://github.com/QwenLM/Qwen2.5-Omni/blob/main/assets/Qwen2.5_Omni.pdf) <br> | blog | 2025-03-27 | [Github](https://github.com/QwenLM/Qwen2.5-Omni/)   | - | ✅ | ✅|
 |  ![Star](https://img.shields.io/github/stars/kyutai-labs/moshivis.svg?style=social&label=Star) <br>[**Vision-Speech Models: Teaching Speech Models to Converse about Images**](https://arxiv.org/pdf/2503.15633) <br> | arXiv | 2025-03-20 | [Github](https://github.com/kyutai-labs/moshivis/)   | - | ✅ | ✅|
 |  ![Star](https://img.shields.io/github/stars/HumanMLLM/ViSpeak.svg?style=social&label=Star) <br> [**ViSpeak: Visual Instruction Feedback in Streaming Videos**](https://arxiv.org/pdf/2503.12769) <br> | arXiv | 2025-03-17 | [Github](https://github.com/HumanMLLM/ViSpeak/)  | - | ✅ | ✅|
 |  ![Star](https://img.shields.io/github/stars/GeWu-Lab/Crab.svg?style=social&label=Star) <br> [**Crab: A Unified Audio-Visual Scene Understanding Model with Explicit Cooperation**](https://arxiv.org/pdf/2503.13068v1) <br> | CVPR | 2025-03-17 | [Github](https://github.com/GeWu-Lab/Crab/)  | - | ✅ | ❌|
