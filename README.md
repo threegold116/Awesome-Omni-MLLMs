@@ -169,6 +169,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Comprehensive Understanding Benchmark
 |  Title  |   Name  |   Date   |   Download   |   Modality   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**MAVERIX: Multimodal Audio-Visual Evaluation Reasoning IndeX**](https://arxiv.org/pdf/2503.21699) <br> | MAVERIX | 2025-03-27 | -- | Video,Audio,<br>Text |
 | [**ACVUBench: Audio-Centric Video Understanding Benchmark**](https://arxiv.org/pdf/2503.19951) <br> | ACVUBench | 2025-03-25 | -- | Video,Audio,<br>Text |
 | [**DAVE : Diagnostic benchmark for Audio Visual Evaluation**](https://arxiv.org/pdf/2503.09321) <br> | DAVE | 2025-03-12 | -- | Video,Audio,<br>Text |
 | [**WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs**](https://arxiv.org/abs/2502.04326) <br> | WorldSense | 2025-02-06 |[Huggingface](https://huggingface.co/datasets/honglyhly/WorldSense) | Image,Video,<br>Audio,Text |
