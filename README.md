@@ -31,7 +31,9 @@ A Survey on MLLMs Aligned with Multi-modalities
     <a href="https://doi.org/10.48550/arXiv.2412.11694"><img src="https://img.shields.io/badge/arXiv-2412.11694-b31b1b.svg" alt="Paper"></a>
     <a href="https://github.com/threegold116/Omni-MLLM"><img src="https://img.shields.io/github/last-commit/threegold116/Omni-MLLM?color=blue" alt="Github"></a>
     <a href="https://github.com/threegold116/Omni-MLLM/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/zchuz/CoT-Reasoning-Survey?color=green"> </a>
+    <!-- <a href="https://github.com/threegold116/Omni-MLLM/blob/main/LICENSE"> <img src="https://visitor-badge.laobi.icu/badge?page_id=threegold116.Awesome-Omni-MLLMs" alt="visitor badge"/> </a> -->
 </div>
+
 
 This repository contains the resources for **arxiv** paper **_From Specific-MLLMs to Omni-MLLMs: A Survey on MLLMs Aligned with Multi-modalities_**
 
@@ -42,6 +44,7 @@ For more details, please refer to the paper: [From Specific-MLLMs to Omni-MLLMs:
 
 
 ## 🎉 Updates
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=threegold116.Awesome-Omni-MLLMs) -->
 - 2025/02/28 We have updated 23 papers in the reading list.
 - 2025/02/20 We have updated 55 papers first in the reading list.
 - 2025/02/15 The second version of our paper has been released, check it on [arxiv](https://doi.org/10.48550/arXiv.2412.11694).
@@ -91,7 +94,6 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 | ![Star](https://img.shields.io/github/stars/westlake-baichuan-mllm/bc-omni.svg?style=social&label=Star) <br> [**Baichuan-Omni Technical Report**](https://arxiv.org/pdf/2410.08565) <br> | arXiv | 2024-10-11 | [Github](https://github.com/westlake-baichuan-mllm/bc-omni) | - | ✅ | ❌|
 | [**Efficient Generative Multimodal Integration (EGMI): Enabling Audio Generation from Text-Image Pairs through Alignment with Large Language Models**](https://openreview.net/pdf?id=5fWY2ZlsKj) <br> | NeurIPS<br>Workshop | 2024-10-11 | - | - | ✅ | ✅|
 | [**Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization**](https://arxiv.org/pdf/2410.06682) <br> | arXiv | 2024-10-09 | - | - | ✅ | ❌|
-|   [**EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions**](https://arxiv.org/pdf/2409.18042) <br> | CVPR | 2024-09-26 | -| - | ✅ | ✅|
 |  [**Large Language Models Are Strong Audio-Visual Speech Recognition Learners**](https://arxiv.org/abs/2409.12319) <br> | ICASSP | 2024-09-18 | -| - | ✅ | ❌|
 | ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA.svg?style=social&label=Star) <br> [**VITA: Towards Open-Source Interactive Omni Multimodal LLM**](https://arxiv.org/pdf/2408.05211) <br> | arXiv | 2024-08-05 | [Github](https://github.com/VITA-MLLM/VITA) | - | ✅ | ✅|
 | ![Star](https://img.shields.io/github/stars/lzw-lzw/UnifiedMLLM.svg?style=social&label=Star) <br> [**UnifiedMLLM: Enabling Unified Representation for Multi-modal Multi-tasks With Large Language Model**](https://arxiv.org/pdf/2408.02503) <br> | arXiv | 2024-08-03 | [Github](https://github.com/lzw-lzw/UnifiedMLLM) | - | ✅ | ✅|
