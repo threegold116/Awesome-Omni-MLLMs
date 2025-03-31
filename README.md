@@ -44,7 +44,7 @@ For more details, please refer to the paper: [From Specific-MLLMs to Omni-MLLMs:
 
 
 ## 🎉 Updates
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=threegold116.Awesome-Omni-MLLMs) -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=threegold116.Awesome-Omni-MLLMs)
 - 2025/02/28 We have updated 23 papers in the reading list.
 - 2025/02/20 We have updated 55 papers first in the reading list.
 - 2025/02/15 The second version of our paper has been released, check it on [arxiv](https://doi.org/10.48550/arXiv.2412.11694).
