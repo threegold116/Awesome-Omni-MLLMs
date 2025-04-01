@@ -44,7 +44,7 @@ For more details, please refer to the paper: [From Specific-MLLMs to Omni-MLLMs:
 
 
 ## 🎉 Updates
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=threegold116.Awesome-Omni-MLLMs) -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=threegold116.Awesome-Omni-MLLMs)
 - 2025/02/28 We have updated 23 papers in the reading list.
 - 2025/02/20 We have updated 55 papers first in the reading list.
 - 2025/02/15 The second version of our paper has been released, check it on [arxiv](https://doi.org/10.48550/arXiv.2412.11694).
@@ -60,6 +60,8 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Multi-branch Continuous Omni-MLLMs
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |Cross(Omni)-modal<br>Understanding|Cross(Omni)-modal<br>Generation|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|  [**OrchMLLM: Orchestrate Multimodal Data with Batch Post-Balancing to Accelerate Multimodal Large Language Model Training**](https://arxiv.org/pdf/2503.23830) <br> | arXiv | 2025-03-31 | -   | - | ✅ | ❌|
+|  ![Star](https://img.shields.io/github/stars/patrick-tssn/M4.svg?style=social&label=Star) <br>[**OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts**](https://arxiv.org/pdf/2503.22952) <br> | CVPR | 2025-03-28 | [Github](https://github.com/patrick-tssn/M4/)     | - | ✅ | ❌|
 |  [**DeepSound-V1: Start to Think Step-by-Step in the Audio Generation from Videos**](https://arxiv.org/pdf/2503.22208) <br> | arXiv | 2025-03-27 | -   | - | ✅ | ✅|
 |  ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.5-Omni.svg?style=social&label=Star) <br>[**Qwen2.5-Omni Technical Report**](https://arxiv.org/pdf/2503.20215) <br> | arXiv | 2025-03-27 | [Github](https://github.com/QwenLM/Qwen2.5-Omni/)   | [Demo](https://huggingface.co/spaces/Qwen/Qwen2.5-Omni-7B-Demo) | ✅ | ✅|
 |  ![Star](https://img.shields.io/github/stars/kyutai-labs/moshivis.svg?style=social&label=Star) <br>[**Vision-Speech Models: Teaching Speech Models to Converse about Images**](https://arxiv.org/pdf/2503.15633) <br> | arXiv | 2025-03-20 | [Github](https://github.com/kyutai-labs/moshivis/)   | - | ✅ | ✅|
@@ -172,6 +174,8 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Comprehensive Understanding Benchmark
 |  Title  |   Name  |   Date   |   Download   |   Modality   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**AURELIA: Test-time Reasoning Distillation in Audio-Visual LLMs**](https://www.arxiv.org/pdf/2503.23219) <br> | AVReasonBench | 2025-03-29 | -- | Video,Audio,<br>Text |
+| [**OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts**](https://arxiv.org/pdf/2503.22952) <br> | OmniMMI | 2025-03-28 | [Huggingface](https://huggingface.co/datasets/bigai-nlco/OmniMMI) | Video,Audio,<br>Text |
 | [**MAVERIX: Multimodal Audio-Visual Evaluation Reasoning IndeX**](https://arxiv.org/pdf/2503.21699) <br> | MAVERIX | 2025-03-27 | -- | Video,Audio,<br>Text |
 | [**ACVUBench: Audio-Centric Video Understanding Benchmark**](https://arxiv.org/pdf/2503.19951) <br> | ACVUBench | 2025-03-25 | -- | Video,Audio,<br>Text |
 | [**DAVE : Diagnostic benchmark for Audio Visual Evaluation**](https://arxiv.org/pdf/2503.09321) <br> | DAVE | 2025-03-12 | -- | Video,Audio,<br>Text |
