@@ -60,6 +60,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Multi-branch Continuous Omni-MLLMs
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |Cross(Omni)-modal<br>Understanding|Cross(Omni)-modal<br>Generation|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|  ![Star](https://img.shields.io/github/stars/reml-group/fortisavqa.svg?style=social&label=Star) [**FortisAVQA and MAVEN: a Benchmark Dataset and Debiasing Framework for Robust Multimodal Reasoning**](https://arxiv.org/pdf/2504.00487) <br> | Arxiv | 2025-04-01 |  [Github](https://github.com/reml-group/fortisavqa/)      | - | ✅ | ❌|
 |  [**OrchMLLM: Orchestrate Multimodal Data with Batch Post-Balancing to Accelerate Multimodal Large Language Model Training**](https://arxiv.org/pdf/2503.23830) <br> | arXiv | 2025-03-31 | -   | - | ✅ | ❌|
 |  ![Star](https://img.shields.io/github/stars/patrick-tssn/M4.svg?style=social&label=Star) <br>[**OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts**](https://arxiv.org/pdf/2503.22952) <br> | CVPR | 2025-03-28 | [Github](https://github.com/patrick-tssn/M4/)     | - | ✅ | ❌|
 |  [**DeepSound-V1: Start to Think Step-by-Step in the Audio Generation from Videos**](https://arxiv.org/pdf/2503.22208) <br> | arXiv | 2025-03-27 | -   | - | ✅ | ✅|
@@ -198,7 +199,10 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Down-Streaming Understanding Benchmark
 |  Title  |   Name  |   Date   |   Download   |   Modality   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**FortisAVQA and MAVEN: a Benchmark Dataset and Debiasing Framework for Robust Multimodal Reasoning**](https://arxiv.org/pdf/2504.00487) <br> |  FortisAVQA | 2025-04-01 | - | Video,Audio,<br>Text |
 | [**Recognizing Everything from All Modalities at Once: Grounded Multimodal Universal Information Extraction**](https://arxiv.org/pdf/2406.03701) <br> |  MUIE | 2024-06-06 |- | Image,Video,<br>Audio,Text |
+| [**Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering**](https://arxiv.org/pdf/2404.12020) <br> |   MUSIC-AVQA-R  | 2024-04-18 |- | Video,Audio,<br>Text |
+| [**Tackling Data Bias in MUSIC-AVQA: Crafting a Balanced Dataset for Unbiased Question-Answering**](https://arxiv.org/pdf/2310.06238) <br> |  MUSIC-AVQA v2.0 | 2023-10-10 |[DropBox](https://www.dropbox.com/scl/fi/yfrrsuds95tmtgxirxy6e/collect_new_set.rar?rlkey=izt6ldb1czlpnhy8y6masi2jm&e=1&st=8o3m8ds9&dl=0) | Video,Audio,<br>Text |
 | [**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**](https://arxiv.org/pdf/2304.08345) <br> |  VALOR-32K | 2023-04-17 |[BaiduDisk](https://pan.baidu.com/share/init?surl=aHWCwUOX1lJi0lSsmJb6Tw&pwd=e3ve)<br>[BaiduDisk](https://pan.baidu.com/share/init?surl=Hq6VvAdKlPcq7j737ZXdbA&pwd=qiw1) | Video,Audio,<br>Text |
 | [**Dense-Localizing Audio-Visual Events in Untrimmed Videos: A Large-Scale Benchmark and Baseline**](https://arxiv.org/pdf/2303.12930) <br> |  UnAV-100<br>test | 2023-03-22 |- | Video,Audio,<br>Text |
 | [**AVQA: A Dataset for Audio-Visual Question Answering on Videos**](https://dl.acm.org/doi/10.1145/3503161.3548291) <br> |  AVQA | 2022-10-10 |[Dataset](https://mn.cs.tsinghua.edu.cn/avqa/) | Video,Audio,<br>Text |
