@@ -175,6 +175,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 | ![Star](https://img.shields.io/github/stars/embodied-generalist/embodied-generalist.svg?style=social&label=Star) <br> [**An Embodied Generalist Agent in 3D World**](https://arxiv.org/pdf/2311.12871) <br> | ICML | 2023-11-18 | [Github](https://github.com/embodied-generalist/embodied-generalist) | Visual/3D/Action/<br>Text➜Text |✅ | ❌ |
 
 # Cross-Modality Benchmark
+**Input-Output format**: X+Y+Text➜Text or X+Y+Text➜X
 ## Comprehensive Understanding Benchmark
 |  Title  |   Name  |   Date   |   Download   |   Modality   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -214,3 +215,13 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 | [**Pano-AVQA: Grounded Audio-Visual Question Answering on 360 Videos**](https://arxiv.org/pdf/2110.05122) <br> |  Pano-AVQA | 2021-10-11 |-- | Video,Audio,<br>Text |
 | [**VGGSound: A Large-scale Audio-Visual Dataset**](https://arxiv.org/pdf/2004.14368) <br> |  VGGSound | 2020-04-29 |[Huggingface](https://huggingface.co/datasets/Loie/VGGSound) | Video,Audio,<br>Text |
 | [**Audio Visual Scene-Aware Dialog**](https://arxiv.org/pdf/1901.09107) <br> |  AVSD | 2019-01-25 |[Dataset](https://video-dialog.com/) | Video,Audio,<br>Text |
+
+
+# Uni-Modality Benchmark
+**Input-Output format**: X+Text➜Text or X+Text➜X
+
+## Any2Any Benchmark
+|  Title  |   Name  |   Date   |   Download   |   Modality   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Judge Anything: MLLM as a Judge Across Any Modality**](https://arxiv.org/pdf/2503.17489) <br> |  TASKANYTHING | 2025-03-21 | [Huggingface](https://huggingface.co/datasets/pudashi/JudgeAnything) | Video,Image,<br>Audio,Text |
+| [**MixEval-X: Any-to-Any Evaluations from Real-World Data Mixtures**](https://arxiv.org/pdf/2410.13754) <br> |  MixEval-X | 2024-10-17 | [Huggingface](https://huggingface.co/datasets/MixEval/MixEval-X)| Video,Image,<br>Audio,Text |
