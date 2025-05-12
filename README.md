@@ -60,6 +60,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Multi-branch Continuous Omni-MLLMs
 |  Title  |   Venue  |   Date   |   Code   |   Modalities   |Cross(Omni)-modal<br>Understanding|Cross(Omni)-modal<br>Generation|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|  ![Star](https://img.shields.io/github/stars/HarryHsing/EchoInk.svg?style=social&label=Star) [**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**](https://arxiv.org/pdf/2505.04623) <br> | Arxiv | 2025-05-07 |  [Github](https://github.com/HarryHsing/EchoInk/)      | Visual/Audio/Text<br>➜Text | ✅ | ❌|
 |  ![Star](https://img.shields.io/github/stars/Hoar012/TDC-Video.svg?style=social&label=Star) [**Multimodal Long Video Modeling Based on Temporal Dynamic Context**](https://arxiv.org/pdf/2504.10443) <br> | Arxiv | 2025-04-14 |  [Github](https://github.com/Hoar012/TDC-Video/)      | Visual/Audio/Text<br>➜Text | ✅ | ❌|
 |  ![Star](https://img.shields.io/github/stars/stoney0062/CAPYBARA-OMNI.svg?style=social&label=Star) [**Capybara-OMNI: An Efficient Paradigm for Building Omni-Modal Language Models**](https://arxiv.org/pdf/2504.12315) <br> | ICLR<br>Workshop | 2025-04-10 |  [Github](https://github.com/stoney0062/CAPYBARA-OMNI/)      | Visual/Audio/Text<br>➜Text | ✅ | ❌|
 |  ![Star](https://img.shields.io/github/stars/reml-group/fortisavqa.svg?style=social&label=Star) [**FortisAVQA and MAVEN: a Benchmark Dataset and Debiasing Framework for Robust Multimodal Reasoning**](https://arxiv.org/pdf/2504.00487) <br> | Arxiv | 2025-04-01 |  [Github](https://github.com/reml-group/fortisavqa/)      | Visual/Audio/Text<br>➜Text | ✅ | ❌|
@@ -223,5 +224,5 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 ## Any2Any Benchmark
 |  Title  |   Name  |   Date   |   Download   |   Modality   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Judge Anything: MLLM as a Judge Across Any Modality**](https://arxiv.org/pdf/2503.17489) <br> |  TASKANYTHING | 2025-03-21 | [Huggingface](https://huggingface.co/datasets/pudashi/JudgeAnything) | Video,Image,<br>Audio,Text |
+| [**Judge Anything: MLLM as a Judge Across Any Modality**](https://arxiv.org/pdf/2503.17489) <br> |  TaskAnything | 2025-03-21 | [Huggingface](https://huggingface.co/datasets/pudashi/JudgeAnything) | Video,Image,<br>Audio,Text |
 | [**MixEval-X: Any-to-Any Evaluations from Real-World Data Mixtures**](https://arxiv.org/pdf/2410.13754) <br> |  MixEval-X | 2024-10-17 | [Huggingface](https://huggingface.co/datasets/MixEval/MixEval-X)| Video,Image,<br>Audio,Text |
