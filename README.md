@@ -62,7 +62,7 @@ This reading list will be updated periodically, and if you have any suggestions 
   - [🧩Diserect Omni-MLLMs](#diserect-omni-mllms)
   - [🔀Hybrid Omni-MLLMs](#hybrid-omni-mllms)
 - [🧪Cross-Modality Benchmark](#cross-modality-benchmark)
-  - [🧠Comprehensive Understanding Benchmark](#comprehensive-understanding-benchmark)
+  - [📊Comprehensive Understanding Benchmark](#comprehensive-understanding-benchmark)
   - [📉Down-Streaming Understanding Benchmark](#down-streaming-understanding-benchmark)
 - [🔍Uni-Modality Benchmark](#uni-modality-benchmark)
   - [🔄Any2Any Benchmark](#any2any-benchmark)
@@ -190,7 +190,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 
 # 🧪Cross-Modality Benchmark
 **📌Input-Output format**: X+Y+Text➜Text or X+Y+Text➜X
-## 🧠Comprehensive Understanding Benchmark
+## 📊Comprehensive Understanding Benchmark
 | Title                                                                                                                                                               |        Name         |    Date    |                                                                                      Download                                                                                      |          Modality          |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-----------------: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
 | [**AURELIA: Test-time Reasoning Distillation in Audio-Visual LLMs**](https://www.arxiv.org/pdf/2503.23219) <br>                                                     |    AVReasonBench    | 2025-03-29 |                                                                                         --                                                                                         |    Video,Audio,<br>Text    |
