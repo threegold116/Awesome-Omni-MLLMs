@@ -43,21 +43,21 @@ For more details, please refer to the paper: [From Specific-MLLMs to Omni-MLLMs:
 
 
 
-## 🎉 Updates
+## 📢 Updates
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=threegold116.Awesome-Omni-MLLMs)
-- 2025/02/28 We have updated 23 papers in the reading list.
-- 2025/02/20 We have updated 55 papers first in the reading list.
-- 2025/02/15 The second version of our paper has been released, check it on [arxiv](https://doi.org/10.48550/arXiv.2412.11694).
-- 2024/12/16 The first version of our paper is available on [arxiv](https://doi.org/10.48550/arXiv.2412.11694).
-- 2024/09/22 We created this reading list repository.
+- 2025/05/16 Our paper is accepted as ACL2025 Findings 🎉.
+- 2025/02/28 We have updated 23 papers in the reading list 📚.
+- 2025/02/20 We have updated 55 papers first in the reading list 📚.
+- 2025/02/15 The second version of our paper has been released, check it on [arxiv](https://doi.org/10.48550/arXiv.2412.11694) 🎓.
+- 2024/12/16 The first version of our paper is available on [arxiv](https://doi.org/10.48550/arXiv.2412.11694) 🎓.
 
 <!-- We use the 💡 icon to identify articles that have been added since the last version of the paper -->
 
 This reading list will be updated periodically, and if you have any suggestions or find some we missed, feel free to contact us! You can submit an issue or send an email (sxjiang@ir.hit.edu.cn).
 
-# Awesome Omni-MLLMs
+# 🧠Awesome Omni-MLLMs
 Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
-## Multi-branch Continuous Omni-MLLMs
+## 🌿Multi-branch Continuous Omni-MLLMs
 |  Title  |   Venue  |   Date   |   Code   |   Modalities   |Cross(Omni)-modal<br>Understanding|Cross(Omni)-modal<br>Generation|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |  ![Star](https://img.shields.io/github/stars/inclusionAI/Ming.svg?style=social&label=Star) [**Ming-Lite-Omni-Preview**](https://github.com/inclusionAI/Ming/tree/main/Ming-omni) <br> | blog | 2025-05-07 |  [Github](https://github.com/inclusionAI/Ming/)      | Visual/Audio/Text<br>➜Text/Audio | ✅ | ✅|
@@ -141,7 +141,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 <!-- | ![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star) <br> [**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**](https://arxiv.org/pdf/2311.18775) <br> | CVPR  | 2025-02-07 | [Github](https://github.com/microsoft/i-Code/tree/main/CoDi-2) |-| -->
 
 
-## Uni-branch Continuous Omni-MLLMs
+## 🌲Uni-branch Continuous Omni-MLLMs
 |  Title  |   Venue  |   Date   |   Code   |   Modalities   |Cross(Omni)-modal<br>Understanding|Cross(Omni)-modal<br>Generation|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/JiazuoYu/PathWeave.svg?style=social&label=Star) <br> [**LLMs Can Evolve Continually on Modality for X-Modal Reasoning**](https://openreview.net/pdf?id=drpJ7KOr3F) <br> | NeurIPS | 2024-10-26 | [Github](https://github.com/JiazuoYu/PathWeave) |  Visual/Audio/3D/Depth/Text<br>➜Text/Audio | ✅ | ❌|
@@ -156,7 +156,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 | ![Star](https://img.shields.io/github/stars/yxuansu/PandaGPT.svg?style=social&label=Star) <br> [**PandaGPT: One Model To Instruction-Follow Them All**](https://aclanthology.org/2023.tllm-1.2.pdf) <br> | tllm | 2023-05-25 | [Github](https://github.com/yxuansu/PandaGPT) | Visual/Audio/3D/Depth/<br>Thremal/Text➜Text |✅ | ❌ |
 
 
-## Diserect Omni-MLLMs
+## 🧩Diserect Omni-MLLMs
 |  Title  |   Venue  |   Date   |   Code   |   Modalities   |Cross(Omni)-modal<br>Understanding|Cross(Omni)-modal<br>Generation|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |  [**SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters**](https://arxiv.org/pdf/2412.00174) <br> | Arxiv | 2024-12-29 | - | Visual/Audio/Motion/<br>Text➜Text/Audio/Motion |✅ | ✅ |
@@ -167,7 +167,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 | ![Star](https://img.shields.io/github/stars/OpenMOSS/AnyGPT.svg?style=social&label=Star) <br> [**AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling**](https://aclanthology.org/2024.acl-long.521.pdf) <br> | ACL | 2024-02-19 | [Github](https://github.com/OpenMOSS/AnyGPT) | Visual/Audio/Text<br>➜Text/Visual/Audio |✅ | ✅ |
 | [**TEAL: Tokenize and Embed ALL for Multi-modal Large Language Models**](https://arxiv.org/pdf/2311.04589) <br> | Arxiv | 2023-11-08 | - | Visual/Audio/Text<br>➜Text |✅ | ❌ |
 
-## Hybrid Omni-MLLMs
+## 🔀Hybrid Omni-MLLMs
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |Cross(Omni)-modal<br>Understanding|Cross(Omni)-modal<br>Generation|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-Omni-1.5.svg?style=social&label=Star) <br> [**Baichuan-Omni-1.5 Technical Report**](https://arxiv.org/abs/2501.15368) <br> | arXiv | 2025-01-26 | [Github](https://github.com/baichuan-inc/Baichuan-Omni-1.5) | Visual/Audio/Text<br>➜Text/Audio | ✅ | ✅|
@@ -176,9 +176,9 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 | [**Grounding Multimodal Large Language Models in Actions**](https://arxiv.org/pdf/2406.07904) <br> | NeurIPS | 2024-06-12 |- | Visual/Action/Text<br>➜Text/Action |✅ | ✅ |
 | ![Star](https://img.shields.io/github/stars/embodied-generalist/embodied-generalist.svg?style=social&label=Star) <br> [**An Embodied Generalist Agent in 3D World**](https://arxiv.org/pdf/2311.12871) <br> | ICML | 2023-11-18 | [Github](https://github.com/embodied-generalist/embodied-generalist) | Visual/3D/Action/<br>Text➜Text |✅ | ❌ |
 
-# Cross-Modality Benchmark
-**Input-Output format**: X+Y+Text➜Text or X+Y+Text➜X
-## Comprehensive Understanding Benchmark
+# 🧪Cross-Modality Benchmark
+**📌Input-Output format**: X+Y+Text➜Text or X+Y+Text➜X
+## 🧠Comprehensive Understanding Benchmark
 |  Title  |   Name  |   Date   |   Download   |   Modality   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**AURELIA: Test-time Reasoning Distillation in Audio-Visual LLMs**](https://www.arxiv.org/pdf/2503.23219) <br> | AVReasonBench | 2025-03-29 | -- | Video,Audio,<br>Text |
@@ -202,7 +202,7 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 | [**X-InstructBLIP: A Framework for Aligning Image, 3D, Audio, Video to LLMs and its Emergent Cross-Modal Reasoning**](https://arxiv.org/pdf/2311.18799) <br> | DisCRn  | 2023-11-30 |[Github](https://github.com/salesforce/LAVIS/tree/main/projects/xinstructblip) | Image,Audio,<br>3D,Text |
 
 
-## Down-Streaming Understanding Benchmark
+## 📉Down-Streaming Understanding Benchmark
 |  Title  |   Name  |   Date   |   Download   |   Modality   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**FortisAVQA and MAVEN: a Benchmark Dataset and Debiasing Framework for Robust Multimodal Reasoning**](https://arxiv.org/pdf/2504.00487) <br> |  FortisAVQA | 2025-04-01 | - | Video,Audio,<br>Text |
@@ -219,10 +219,10 @@ Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
 | [**Audio Visual Scene-Aware Dialog**](https://arxiv.org/pdf/1901.09107) <br> |  AVSD | 2019-01-25 |[Dataset](https://video-dialog.com/) | Video,Audio,<br>Text |
 
 
-# Uni-Modality Benchmark
-**Input-Output format**: X+Text➜Text or X+Text➜X
+# 🔍Uni-Modality Benchmark
+**📌Input-Output format**: X+Text➜Text or X+Text➜X
 
-## Any2Any Benchmark
+## 🔄Any2Any Benchmark
 |  Title  |   Name  |   Date   |   Download   |   Modality   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Judge Anything: MLLM as a Judge Across Any Modality**](https://arxiv.org/pdf/2503.17489) <br> |  TaskAnything | 2025-03-21 | [Huggingface](https://huggingface.co/datasets/pudashi/JudgeAnything) | Video,Image,<br>Audio,Text |
