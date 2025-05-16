@@ -55,7 +55,7 @@ For more details, please refer to the paper: [From Specific-MLLMs to Omni-MLLMs:
 
 This reading list will be updated periodically, and if you have any suggestions or find some we missed, feel free to contact us! You can submit an issue or send an email (sxjiang@ir.hit.edu.cn).
 
-## 📢 Tables of Contents
+## 🗂️ Tables of Contents
 - [🧠Awesome Omni-MLLMs](#awesome-omni-mllms)
   - [🌿Multi-branch Continuous Omni-MLLMs](#multi-branch-continuous-omni-mllms)
   - [🌲Uni-branch Continuous Omni-MLLMs](#uni-branch-continuous-omni-mllms)
