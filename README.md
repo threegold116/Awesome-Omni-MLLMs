@@ -10,20 +10,25 @@ A Survey on MLLMs Aligned with Multi-modalities
 <b>Jiafeng Liang</b><sup>1</sup>,
 <b>Jiyuan Wang</b><sup>1</sup>,
 <b>Xuan Dong</b><sup>1</sup>,
-<b>Heng Chang</b><sup>2</sup>,
-<b>Weijiang Yu</b><sup>2</sup>,
-<b>Jinhua Du</b><sup>2</sup>,
-<b>Ming Liu</b><sup>1†</sup>,
-<b>Bing Qin</b><sup>1</sup>
+<b>Heng Chang</b><sup>3</sup>,
+<b>Weijiang Yu</b><sup>3</sup>,
+<b>Jinhua Du</b><sup>4</sup>,
+<b>Ming Liu</b><sup>1†,2</sup>,
+<b>Bing Qin</b><sup>1,2</sup>
 </div>
 
 <div align="center">
 <sup>1</sup>Harbin Institute of Technology, Harbin, China
 </div>
 <div align="center">
-<sup>2</sup>Huawei Inc., Shenzhen, China
+<sup>2</sup>Peng Cheng Laboratory, Shenzhen, China
 </div>
-
+<div align="center">
+<sup>3</sup>Huawei Inc., Shenzhen, China
+</div>
+<div align="center">
+<sup>4</sup>Huawei London Research Centre, London, UK
+</div>
 <br />
 
 <div align="center">
