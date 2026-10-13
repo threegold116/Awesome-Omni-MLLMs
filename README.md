@@ -69,7 +69,12 @@ For more details, please refer to the paper: [From Specific-MLLMs to Omni-MLLMs:
 
 <!-- We use the 💡 icon to identify articles that have been added since the last version of the paper -->
 
-This reading list will be updated periodically, and if you have any suggestions or find some we missed, feel free to contact us! You can submit an issue or send an email (sxjiang@ir.hit.edu.cn).
+> [!TIP]
+> **📚 Contributions are welcome! 欢迎大家补充缺失的论文！**
+>
+> If you find any missing papers, please [submit an issue](https://github.com/threegold116/Awesome-Omni-MLLMs/issues/new) or [open a pull request](https://github.com/threegold116/Awesome-Omni-MLLMs/compare), following the repository's classification and table format.
+
+This reading list will be updated periodically. For other suggestions, feel free to contact us at sxjiang@ir.hit.edu.cn.
 
 ## 🗂️ Tables of Contents
 
