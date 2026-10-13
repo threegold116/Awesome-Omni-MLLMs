@@ -1,0 +1,411 @@
+{
+  "review_date": "2026-10-13",
+  "method": "Six rounds of backward reference and related-work tracing; verify titles and first submission dates against arXiv and classify input encoding/alignment from full papers. Previously listed titles and alternate publication URLs are checked before insertion. Earlier directly related work is included and keeps its original date. This is a curated expansion, not an exhaustive citation graph.",
+  "taxonomy_source": "https://arxiv.org/html/2412.11694v3#S2",
+  "totals": {
+    "rounds": 6,
+    "added_unique_papers": 17,
+    "added_model_rows": 13,
+    "added_benchmark_rows": 6
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "source_papers": [
+        "https://arxiv.org/abs/2606.08572",
+        "https://arxiv.org/abs/2607.12820",
+        "https://arxiv.org/abs/2609.21392",
+        "https://arxiv.org/abs/2609.21465",
+        "https://arxiv.org/abs/2606.23623"
+      ],
+      "candidate_count": 6,
+      "added_paper_count": 6,
+      "added_row_count": 7,
+      "added": [
+        {
+          "arxiv_id": "2602.08711",
+          "title": "TimeChat-Captioner: Scripting Multi-Scene Videos with Time-Aware and Structural Audio-Visual Captions",
+          "first_submission_date": "2026-02-09",
+          "primary_source": "https://arxiv.org/abs/2602.08711",
+          "entries": [
+            {
+              "id": "2602.08711",
+              "section": "multi",
+              "modalities": "Visual/Audio/Text<br>➜Text",
+              "understanding": true,
+              "generation": false,
+              "url": "https://github.com/yaolinli/TimeChat-Captioner"
+            },
+            {
+              "id": "2602.08711",
+              "section": "downstream",
+              "name": "OmniDCBench",
+              "modalities": "Video,Audio,<br>Text",
+              "url": "https://github.com/yaolinli/TimeChat-Captioner"
+            }
+          ],
+          "classification_basis": "Qwen2.5-Omni Thinker with separate continuous vision and audio encoders; text caption output."
+        },
+        {
+          "arxiv_id": "2603.16859",
+          "title": "SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models",
+          "first_submission_date": "2026-03-17",
+          "primary_source": "https://arxiv.org/abs/2603.16859",
+          "entries": [
+            {
+              "id": "2603.16859",
+              "section": "downstream",
+              "name": "SocialOmni",
+              "modalities": "Video,Audio,<br>Text",
+              "url": "https://huggingface.co/datasets/alexisty/SocialOmni"
+            }
+          ],
+          "classification_basis": "Benchmark placement follows whether evaluation requires joint non-linguistic modalities and whether it targets a specific interaction task."
+        },
+        {
+          "arxiv_id": "2603.25406",
+          "title": "MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation",
+          "first_submission_date": "2026-03-26",
+          "primary_source": "https://arxiv.org/abs/2603.25406",
+          "entries": [
+            {
+              "id": "2603.25406",
+              "section": "discrete",
+              "modalities": "Visual/Action/Text<br>➜Visual/Action",
+              "understanding": false,
+              "generation": true,
+              "url": "https://yliu-cs.github.io/MMaDA-VLA"
+            }
+          ],
+          "classification_basis": "MAGVIT-v2 image codes and discretized robot actions share the masked-diffusion token space."
+        },
+        {
+          "arxiv_id": "2604.11102",
+          "title": "OmniScript: Towards Audio-Visual Script Generation for Long-Form Cinematic Video",
+          "first_submission_date": "2026-04-13",
+          "primary_source": "https://arxiv.org/abs/2604.11102",
+          "entries": [
+            {
+              "id": "2604.11102",
+              "section": "multi",
+              "modalities": "Visual/Audio/Text<br>➜Text",
+              "understanding": true,
+              "generation": false,
+              "url": "https://github.com/TencentARC/OmniScript"
+            }
+          ],
+          "classification_basis": "Qwen3-VL plus Whisper audio encoder and audio projector; audio-visual adapters."
+        },
+        {
+          "arxiv_id": "2605.18577",
+          "title": "OmniPro: A Comprehensive Benchmark for Omni-Proactive Streaming Video Understanding",
+          "first_submission_date": "2026-05-18",
+          "primary_source": "https://arxiv.org/abs/2605.18577",
+          "entries": [
+            {
+              "id": "2605.18577",
+              "section": "comprehensive",
+              "name": "OmniPro",
+              "modalities": "Video,Audio,<br>Text",
+              "url": "https://ruixiangzhao.github.io/OmniPro/"
+            }
+          ],
+          "classification_basis": "Benchmark placement follows whether evaluation requires joint non-linguistic modalities and whether it targets a specific interaction task."
+        },
+        {
+          "arxiv_id": "2605.26485",
+          "title": "OmniInteract: Benchmarking Real-World Streaming Interaction for Real-Time Omnimodal Assistants",
+          "first_submission_date": "2026-05-26",
+          "primary_source": "https://arxiv.org/abs/2605.26485",
+          "entries": [
+            {
+              "id": "2605.26485",
+              "section": "downstream",
+              "name": "OmniInteract",
+              "modalities": "Video,Audio",
+              "url": "https://github.com/Lucky-Lance/OmniInteract"
+            }
+          ],
+          "classification_basis": "Benchmark placement follows whether evaluation requires joint non-linguistic modalities and whether it targets a specific interaction task."
+        }
+      ],
+      "excluded": []
+    },
+    {
+      "round": 2,
+      "source_papers": [
+        "https://arxiv.org/abs/2602.08711",
+        "https://arxiv.org/abs/2604.11102",
+        "https://arxiv.org/abs/2605.26485"
+      ],
+      "candidate_count": 3,
+      "added_paper_count": 3,
+      "added_row_count": 4,
+      "added": [
+        {
+          "arxiv_id": "2510.10395",
+          "title": "AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration",
+          "first_submission_date": "2025-10-12",
+          "primary_source": "https://arxiv.org/abs/2510.10395",
+          "entries": [
+            {
+              "id": "2510.10395",
+              "section": "multi",
+              "modalities": "Visual/Audio/Text<br>➜Text",
+              "understanding": true,
+              "generation": false,
+              "url": "https://avocado-captioner.github.io/"
+            }
+          ],
+          "classification_basis": "Qwen2.5-Omni audio-visual captioning post-training."
+        },
+        {
+          "arxiv_id": "2601.19267",
+          "title": "DiaDem: Advancing Dialogue Descriptions in Audiovisual Video Captioning for Multimodal Large Language Models",
+          "first_submission_date": "2026-01-27",
+          "primary_source": "https://arxiv.org/abs/2601.19267",
+          "entries": [
+            {
+              "id": "2601.19267",
+              "section": "multi",
+              "modalities": "Visual/Audio/Text<br>➜Text",
+              "understanding": true,
+              "generation": false,
+              "url": "https://diadem-captioner.github.io/"
+            },
+            {
+              "id": "2601.19267",
+              "section": "downstream",
+              "name": "DiaDemBench",
+              "modalities": "Video,Audio,<br>Text",
+              "url": "https://diadem-captioner.github.io/"
+            }
+          ],
+          "classification_basis": "Separate audio/video encoders remain frozen while adapters and language backbone are trained for audiovisual descriptions."
+        },
+        {
+          "arxiv_id": "2601.22575",
+          "title": "PhoStream: Benchmarking Real-World Streaming for Omnimodal Assistants in Mobile Scenarios",
+          "first_submission_date": "2026-01-30",
+          "primary_source": "https://arxiv.org/abs/2601.22575",
+          "entries": [
+            {
+              "id": "2601.22575",
+              "section": "downstream",
+              "name": "PhoStream",
+              "modalities": "Video,Audio,<br>Text",
+              "url": "https://github.com/Lucky-Lance/PhoStream"
+            }
+          ],
+          "classification_basis": "Benchmark placement follows whether evaluation requires joint non-linguistic modalities and whether it targets a specific interaction task."
+        }
+      ],
+      "excluded": []
+    },
+    {
+      "round": 3,
+      "source_papers": [
+        "https://arxiv.org/abs/2601.19267",
+        "https://arxiv.org/abs/2510.10395"
+      ],
+      "candidate_count": 3,
+      "added_paper_count": 0,
+      "added_row_count": 0,
+      "added": [],
+      "excluded": [
+        {
+          "arxiv_id": "2506.09079",
+          "reason": "Visual-only video QA/captioning; the current primary title is VidBridge-R1, unlike the title used in citing references."
+        },
+        {
+          "arxiv_id": "2502.12782",
+          "reason": "Video caption evaluation for text-to-video generation; lacks an audio-visual joint evaluation target."
+        },
+        {
+          "arxiv_id": "2504.02061",
+          "reason": "Already listed as an ICLR paper under the same title with capitalization differences and an OpenReview URL; the duplicate arXiv entry was removed during final title-based deduplication.",
+          "existing_source": "https://openreview.net/pdf?id=1SYUKPeM12"
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "source_papers": [
+        "https://arxiv.org/abs/2603.25406"
+      ],
+      "candidate_count": 3,
+      "added_paper_count": 3,
+      "added_row_count": 3,
+      "added": [
+        {
+          "arxiv_id": "2506.21539",
+          "title": "WorldVLA: Towards Autoregressive Action World Model",
+          "first_submission_date": "2025-06-26",
+          "primary_source": "https://arxiv.org/abs/2506.21539",
+          "entries": [
+            {
+              "id": "2506.21539",
+              "section": "discrete",
+              "modalities": "Visual/Action/Text<br>➜Visual/Action",
+              "understanding": false,
+              "generation": true,
+              "url": "https://github.com/alibaba-damo-academy/WorldVLA"
+            }
+          ],
+          "classification_basis": "Chameleon VQ image codes and discretized actions in a shared autoregressive vocabulary."
+        },
+        {
+          "arxiv_id": "2511.01718",
+          "title": "Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process",
+          "first_submission_date": "2025-11-03",
+          "primary_source": "https://arxiv.org/abs/2511.01718",
+          "entries": [
+            {
+              "id": "2511.01718",
+              "section": "discrete",
+              "modalities": "Visual/Action/Text<br>➜Visual/Action",
+              "understanding": false,
+              "generation": true,
+              "url": "https://github.com/OpenHelix-Team/Unified-Diffusion-VLA",
+              "venue": "ICLR"
+            }
+          ],
+          "classification_basis": "VQ image tokenizer and FAST action tokenizer in a shared discrete denoising sequence."
+        },
+        {
+          "arxiv_id": "2511.17502",
+          "title": "RynnVLA-002: A Unified Vision-Language-Action and World Model",
+          "first_submission_date": "2025-11-21",
+          "primary_source": "https://arxiv.org/abs/2511.17502",
+          "entries": [
+            {
+              "id": "2511.17502",
+              "section": "discrete",
+              "modalities": "Visual/State/Action/Text<br>➜Visual/Action",
+              "understanding": false,
+              "generation": true,
+              "url": "https://github.com/alibaba-damo-academy/RynnVLA-002"
+            }
+          ],
+          "classification_basis": "Discrete image/state/action input tokens; a continuous action output head does not change input encoding classification."
+        }
+      ],
+      "excluded": []
+    },
+    {
+      "round": 5,
+      "source_papers": [
+        "https://arxiv.org/abs/2603.19217",
+        "https://arxiv.org/abs/2604.27393"
+      ],
+      "candidate_count": 3,
+      "added_paper_count": 3,
+      "added_row_count": 3,
+      "added": [
+        {
+          "arxiv_id": "2509.25131",
+          "title": "MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech",
+          "first_submission_date": "2025-09-29",
+          "primary_source": "https://arxiv.org/abs/2509.25131",
+          "entries": [
+            {
+              "id": "2509.25131",
+              "section": "multi",
+              "modalities": "Visual/Audio/Text<br>➜Text/Audio",
+              "understanding": true,
+              "generation": true,
+              "url": "https://github.com/dvlab-research/MGM-Omni"
+            }
+          ],
+          "classification_basis": "Qwen2.5-VL visual encoder plus dual continuous audio encoders; separate streaming speech decoder."
+        },
+        {
+          "arxiv_id": "2511.14582",
+          "title": "OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models",
+          "first_submission_date": "2025-11-18",
+          "primary_source": "https://arxiv.org/abs/2511.14582",
+          "entries": [
+            {
+              "id": "2511.14582",
+              "section": "multi",
+              "modalities": "Visual/Audio/Text<br>➜Text",
+              "understanding": true,
+              "generation": false,
+              "url": "https://github.com/KD-TAO/OmniZip"
+            }
+          ],
+          "classification_basis": "Token compression after continuous audio/video projectors; evaluated on Qwen2.5-Omni."
+        },
+        {
+          "arxiv_id": "2602.04804",
+          "title": "OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models",
+          "first_submission_date": "2026-02-04",
+          "primary_source": "https://arxiv.org/abs/2602.04804",
+          "entries": [
+            {
+              "id": "2602.04804",
+              "section": "multi",
+              "modalities": "Visual/Audio/Text<br>➜Text",
+              "understanding": true,
+              "generation": false,
+              "url": "https://github.com/dingyue772/OmniSIFT"
+            }
+          ],
+          "classification_basis": "Continuous modality-specific encoder/projector pipelines; evaluated on Qwen2.5-Omni."
+        }
+      ],
+      "excluded": []
+    },
+    {
+      "round": 6,
+      "source_papers": [
+        "https://arxiv.org/abs/2602.04804",
+        "https://arxiv.org/abs/2509.25131"
+      ],
+      "candidate_count": 3,
+      "added_paper_count": 2,
+      "added_row_count": 2,
+      "added": [
+        {
+          "arxiv_id": "2512.10324",
+          "title": "EchoingPixels: Aliasing-Resistant Joint Token Reduction for Audio-Visual LLMs",
+          "first_submission_date": "2025-12-11",
+          "primary_source": "https://arxiv.org/abs/2512.10324",
+          "entries": [
+            {
+              "id": "2512.10324",
+              "section": "multi",
+              "modalities": "Visual/Audio/Text<br>➜Text",
+              "understanding": true,
+              "generation": false,
+              "url": "https://github.com/CharlesGong12/EchoingPixels"
+            }
+          ],
+          "classification_basis": "Selects continuous audio/video token representations in a Qwen2.5-Omni-based backbone."
+        },
+        {
+          "arxiv_id": "2601.13143",
+          "title": "FastAV: Efficient Token Pruning for Audio-Visual Large Language Model Inference",
+          "first_submission_date": "2026-01-19",
+          "primary_source": "https://arxiv.org/abs/2601.13143",
+          "entries": [
+            {
+              "id": "2601.13143",
+              "section": "multi",
+              "modalities": "Visual/Audio/Text<br>➜Text",
+              "understanding": true,
+              "generation": false
+            }
+          ],
+          "classification_basis": "Inference pruning over separate continuous visual and audio encoder outputs."
+        }
+      ],
+      "excluded": [
+        {
+          "arxiv_id": "2412.09596",
+          "reason": "Audio is translated by a separate Whisper/SLM module before visual-memory reasoning; excluded from the encoding-based model tables rather than treating the whole pipeline as a single jointly encoded Omni-MLLM."
+        }
+      ]
+    }
+  ]
+}
