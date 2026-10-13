@@ -92,13 +92,7 @@ This reading list will be updated periodically. For other suggestions, feel free
 
 # 🧠Awesome Omni-MLLMs
 
-Resource links use platform names (Github, Huggingface, etc.); parentheses specify the resource type when needed. Partial, gated, or pending releases are noted explicitly.
-
 Omni-MLLM: The MLLMs which can handle more than 2 extra-linguistic modalities.
-
-Classification follows the [survey taxonomy](https://arxiv.org/html/2412.11694v3#S2): **multi-branch continuous** models use modality-specific continuous encoders and projectors; **uni-branch continuous** models share a projector across pre-aligned modalities; **discrete** models embed quantized modality codes in a shared token space; **hybrid** models combine continuous and discrete input encoding. Classification is based on modality encoding and alignment, rather than the use of diffusion, MoE, or discrete speech outputs alone. Image and video inputs are grouped as **Visual** in the model tables. Training and inference methods are grouped by the encoding architecture of their evaluated backbone.
-
-The 2026/10/13 literature update uses first arXiv submission dates for the six-month window (2026/04/13–2026/10/13). Dynin-Omni is retained as a seed paper outside this window. Model capabilities reflect the tasks reported for each proposed model; a text-only reasoning or captioning model is not marked as supporting non-text generation merely because its base model has a speech decoder. Papers introducing both a model and an evaluation benchmark appear in both relevant tables. The subsequent reference-tracing update also includes earlier related works, retaining their original submission dates. SO-Bench is placed under uni-modality evaluation because its non-linguistic input is spatial audio.
 
 ## 🌿Multi-branch Continuous Omni-MLLMs
 
