@@ -1,0 +1,1381 @@
+{
+  "checked_on": "2026-10-13",
+  "scope": "README entries with empty resource fields, plus mismatched existing links discovered during verification. Not an exhaustive audit of every existing resource.",
+  "method": "Matched paper titles and author links against live repository files and Hugging Face file metadata. No training, model execution, or full media download performed.",
+  "unique_arxiv_papers_scanned": 65,
+  "updated_entries": 49,
+  "updates": [
+    {
+      "paper_id": "2609.25611",
+      "title": "Qwen3.8-Omni: Towards Native Omni-Modal Agents",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Agent tools",
+          "https://github.com/QwenLM/Qwen-MM-Plugins"
+        ],
+        [
+          "Live harness",
+          "https://github.com/QwenLM/Qwen-Live-Harness"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2609.21465",
+      "title": "OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/HarlandZZC/OmniVChat"
+        ],
+        [
+          "Eval data",
+          "https://huggingface.co/datasets/Harland/OmniVChat"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2606.09186",
+      "title": "DuplexOmni: Real-Time Listening, Seeing, Thinking, and Speaking for Full-Duplex Interaction",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/MuyeHuang/DuplexOmni"
+        ],
+        [
+          "Model",
+          "https://huggingface.co/MuyeHuang/DuplexOmni"
+        ],
+        [
+          "Data metadata + shard",
+          "https://huggingface.co/datasets/MuyeHuang/DuplexOmni-Data"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2605.22012",
+      "title": "LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/yfanDai/LatentOmni"
+        ]
+      ],
+      "note": "Model and dataset pending"
+    },
+    {
+      "paper_id": "2602.23306",
+      "title": "ThinkOmni: Lifting Textual Reasoning to Omni-modal Scenarios via Guidance Decoding",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/1ranGuan/thinkomni"
+        ],
+        [
+          "Eval data",
+          "https://huggingface.co/datasets/Catalan258/thinkomni_eval"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2602.05847",
+      "title": "OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/zhangquanchen/OmniVideo-R1"
+        ],
+        [
+          "Training annotations",
+          "https://huggingface.co/datasets/jankin123/OmniVideo-R1"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2601.10323",
+      "title": "ROMA: Real-time Omni-Multimodal Assistant with Interactive Streaming Understanding",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/Eureka-Maggie/ROMA"
+        ],
+        [
+          "Model",
+          "https://huggingface.co/EurekaTian/ROMA"
+        ],
+        [
+          "Training data",
+          "https://huggingface.co/datasets/EurekaTian/ROMA_proactive"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2508.04418",
+      "title": "Think Before You Segment: An Object-aware Reasoning Agent for Referring Audio-Visual Segmentation",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/jasongief/TGS-Agent"
+        ],
+        [
+          "Model",
+          "https://huggingface.co/Jinxing1/TGS-Agent"
+        ],
+        [
+          "Training data",
+          "https://huggingface.co/datasets/Jinxing1/TGSAgent-FT-data"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2508.02317",
+      "title": "VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/ByteDance-Seed/VeOmni"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2508.02149",
+      "title": "AURORA: Augmented Understanding via Structured Reasoning and Reinforcement Learning for Reference Audio-Visual Segmentation",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/Sssssuperior/AURORA"
+        ],
+        [
+          "Training data (stage 1)",
+          "https://pan.baidu.com/s/1sX_uo8nySPsPrIY7kyozSQ?pwd=6wrg"
+        ],
+        [
+          "Training data (stage 2)",
+          "https://pan.baidu.com/s/1jU34YONEngdDELSE4PalBA?pwd=p37y"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2507.22886",
+      "title": "Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/FudanCVL/OmniAVS"
+        ],
+        [
+          "Data",
+          "https://huggingface.co/datasets/FudanCVL/OmniAVS"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2507.20939",
+      "title": "ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World Shorts",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/TencentARC/ARC-Hunyuan-Video-7B"
+        ],
+        [
+          "Model",
+          "https://huggingface.co/TencentARC/ARC-Hunyuan-Video-7B"
+        ],
+        [
+          "ShortVid-Bench",
+          "https://huggingface.co/datasets/TencentARC/ShortVid-Bench"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2507.09862",
+      "title": "SpeakerVid-5M: A Large-Scale High-Quality Dataset for Audio-Visual Dyadic Interactive Human Generation",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/Dorniwang/SpeakerVid-5M-Code"
+        ],
+        [
+          "Data",
+          "https://huggingface.co/datasets/dorni/SpeakerVid-5M-Dataset"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2506.15220",
+      "title": "video-SALMONN 2: Captioning-Enhanced Audio-Visual Large Language Models",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/bytedance/video-SALMONN-2"
+        ],
+        [
+          "Model",
+          "https://huggingface.co/tsinghua-ee/video-SALMONN-2"
+        ],
+        [
+          "Eval data",
+          "https://huggingface.co/datasets/tsinghua-ee/video-SALMONN_2_testset"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2505.18110",
+      "title": "Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Eval code",
+          "https://github.com/zinuoli/TriSense"
+        ],
+        [
+          "Data",
+          "https://huggingface.co/datasets/zinuoli/TriSense-2M"
+        ]
+      ],
+      "note": "Dataset requires access approval"
+    },
+    {
+      "paper_id": "2503.08481",
+      "title": "PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/jetteezhou/PhysVLM"
+        ],
+        [
+          "Model",
+          "https://huggingface.co/JettZhou/PhysVLM-Qwen2.5-3B"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2502.04976",
+      "title": "Towards Multimodal Empathetic Response Generation: A Rich Text-Speech-Vision Avatar-based Benchmark",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/AvaMERG/AvaMERG-Pipeline"
+        ],
+        [
+          "Data",
+          "https://huggingface.co/datasets/ZhangHanXD/AvaMERG"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2502.18778",
+      "title": "M2-omni: Advancing Omni-MLLM for Comprehensive Modality Support with Competitive Performance",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_omni"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2411.19772",
+      "title": "LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/ttgeng233/LongVALE"
+        ],
+        [
+          "Data",
+          "https://huggingface.co/datasets/ttgeng233/LongVALE"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2411.09439",
+      "title": "Spider: Any-to-Many Multimodal LLM",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/Layjins/Spider"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2409.12319",
+      "title": "Large Language Models Are Strong Audio-Visual Speech Recognition Learners",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/umbertocappellazzo/Llama-AVSR"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": null,
+      "title": "InternOmni: Extending InternVL with Audio Modality",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/OpenGVLab/InternVL/tree/v2.0.0/internvl_chat/eval"
+        ],
+        [
+          "Model",
+          "https://huggingface.co/OpenGVLab/InternOmni"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2403.16276",
+      "title": "Empowering LLMs with Pseudo-Untrimmed Videos for Audio-Visual Temporal Understanding",
+      "section": "## 🌿Multi-branch Continuous Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/yunlong10/AVicuna"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2412.00174",
+      "title": "SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters",
+      "section": "## 🧩Diserect Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/AlanJiang98/SOLAMI"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2506.01853",
+      "title": "ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding",
+      "section": "## 🔀Hybrid Omni-MLLMs",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/JAMESYJL/ShapeLLM-Omni"
+        ],
+        [
+          "Model",
+          "https://huggingface.co/yejunliang23/ShapeLLM-7B-omni"
+        ],
+        [
+          "Data",
+          "https://huggingface.co/datasets/yejunliang23/3D-Alpaca"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2601.13836",
+      "title": "FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs",
+      "section": "## 📊Comprehensive Understanding Benchmark",
+      "resources": [
+        [
+          "Data",
+          "https://huggingface.co/datasets/OpenMOSS-Team/FutureOmni"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2601.15016",
+      "title": "LiViBench: An Omnimodal Benchmark for Interactive Livestream Video Understanding",
+      "section": "## 📊Comprehensive Understanding Benchmark",
+      "resources": [
+        [
+          "Project",
+          "https://github.com/Wang-Xiaodong1899/LiViBench"
+        ]
+      ],
+      "note": "Release pending approval"
+    },
+    {
+      "paper_id": "2509.22651",
+      "title": "VoiceAssistant-Eval: Benchmarking AI Assistants across Listening, Speaking, and Viewing",
+      "section": "## 📊Comprehensive Understanding Benchmark",
+      "resources": [
+        [
+          "Data",
+          "https://huggingface.co/datasets/MathLLMs/VoiceAssistant-Eval"
+        ],
+        [
+          "Code",
+          "https://github.com/mathllm/VoiceAssistant-Eval"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2508.10576",
+      "title": "HumanSense: From Multimodal Perception to Empathetic Context-Aware Responses through Reasoning MLLMs",
+      "section": "## 📊Comprehensive Understanding Benchmark",
+      "resources": [
+        [
+          "Data",
+          "https://huggingface.co/datasets/antgroup/HumanSense_Benchmark"
+        ],
+        [
+          "Code",
+          "https://github.com/antgroup/HumanSense"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2508.08237",
+      "title": "VGGSounder: Audio-Visual Evaluations for Foundation Models",
+      "section": "## 📊Comprehensive Understanding Benchmark",
+      "resources": [
+        [
+          "Annotations and code",
+          "https://github.com/Bizilizi/VGGSounder"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2506.20960",
+      "title": "OmniEval: A Benchmark for Evaluating Omni-modal Models with Visual, Auditory, and Textual Inputs",
+      "section": "## 📊Comprehensive Understanding Benchmark",
+      "resources": [],
+      "note": "Release unconfirmed; author project URL returns 404"
+    },
+    {
+      "paper_id": "2505.17862",
+      "title": "Daily-Omni: Towards Audio-Visual Reasoning with Temporal Alignment across Modalities",
+      "section": "## 📊Comprehensive Understanding Benchmark",
+      "resources": [
+        [
+          "Data",
+          "https://huggingface.co/datasets/liarliar/Daily-Omni"
+        ],
+        [
+          "Code",
+          "https://github.com/Lliar-liar/Daily-Omni"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2503.23219",
+      "title": "AURELIA: Test-time Reasoning Distillation in Audio-Visual LLMs",
+      "section": "## 📊Comprehensive Understanding Benchmark",
+      "resources": [
+        [
+          "Data-generation code",
+          "https://github.com/schowdhury671/aurelia"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2503.19951",
+      "title": "ACVUBench: Audio-Centric Video Understanding Benchmark",
+      "section": "## 📊Comprehensive Understanding Benchmark",
+      "resources": [
+        [
+          "Data",
+          "https://huggingface.co/datasets/tsinghua-ee/AVUTBenchmark"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2503.09321",
+      "title": "DAVE : Diagnostic benchmark for Audio Visual Evaluation",
+      "section": "## 📊Comprehensive Understanding Benchmark",
+      "resources": [
+        [
+          "Data",
+          "https://huggingface.co/datasets/gorjanradevski/dave"
+        ],
+        [
+          "Code",
+          "https://github.com/gorjanradevski/dave"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2501.02135",
+      "title": "AVTrustBench: Assessing and Enhancing Reliability and Robustness in Audio-Visual LLMs",
+      "section": "## 📊Comprehensive Understanding Benchmark",
+      "resources": [
+        [
+          "Data guide",
+          "https://github.com/schowdhury671/avtrustbench-/blob/main/data.md"
+        ],
+        [
+          "Code",
+          "https://github.com/schowdhury671/avtrustbench-"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2412.15838",
+      "title": "Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback",
+      "section": "## 📊Comprehensive Understanding Benchmark",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/PKU-Alignment/align-anything"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2411.19772",
+      "title": "LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos",
+      "section": "## 📊Comprehensive Understanding Benchmark",
+      "resources": [
+        [
+          "Data",
+          "https://huggingface.co/datasets/ttgeng233/LongVALE"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2402.12750",
+      "title": "Model Composition for Multimodal Large Language Models",
+      "section": "## 📊Comprehensive Understanding Benchmark",
+      "resources": [
+        [
+          "Data",
+          "https://huggingface.co/datasets/Adu2021/ModelCompose"
+        ],
+        [
+          "Code",
+          "https://github.com/THUNLP-MT/ModelCompose"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2402.13232",
+      "title": "A Touch, Vision, and Language Dataset for Multimodal Alignment",
+      "section": "## 📊Comprehensive Understanding Benchmark",
+      "resources": [
+        [
+          "Data",
+          "https://huggingface.co/datasets/mlfu7/Touch-Vision-Language-Dataset"
+        ],
+        [
+          "Code",
+          "https://github.com/Max-Fu/tvl"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2609.21465",
+      "title": "OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue",
+      "section": "## 📉Down-Streaming Understanding Benchmark",
+      "resources": [
+        [
+          "Data",
+          "https://huggingface.co/datasets/Harland/OmniVChat"
+        ],
+        [
+          "Code",
+          "https://github.com/HarlandZZC/OmniVChat"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2512.02306",
+      "title": "OmniGuard: Unified Omni-Modal Guardrails with Deliberate Reasoning",
+      "section": "## 📉Down-Streaming Understanding Benchmark",
+      "resources": [
+        [
+          "Project",
+          "https://luka-group.github.io/OmniGuard_webpage/"
+        ]
+      ],
+      "note": "Code/data release unconfirmed"
+    },
+    {
+      "paper_id": "2506.05414",
+      "title": "SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing",
+      "section": "## 📉Down-Streaming Understanding Benchmark",
+      "resources": [
+        [
+          "Data",
+          "https://huggingface.co/datasets/uwneuroai/SAVVY-Bench"
+        ],
+        [
+          "Code",
+          "https://github.com/shlizee/savvy"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2505.17536",
+      "title": "Multimodal Conversation Structure Understanding",
+      "section": "## 📉Down-Streaming Understanding Benchmark",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/kentchang/tv-mmpc"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2504.00487",
+      "title": "FortisAVQA and MAVEN: a Benchmark Dataset and Debiasing Framework for Robust Multimodal Reasoning",
+      "section": "## 📉Down-Streaming Understanding Benchmark",
+      "resources": [
+        [
+          "Data",
+          "https://huggingface.co/datasets/reml-group/FortisAVQA"
+        ],
+        [
+          "Code",
+          "https://github.com/reml-group/fortisavqa"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2404.12020",
+      "title": "Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering",
+      "section": "## 📉Down-Streaming Understanding Benchmark",
+      "resources": [
+        [
+          "Data and code",
+          "https://github.com/reml-group/MUSIC-AVQA-R"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2303.12930",
+      "title": "Dense-Localizing Audio-Visual Events in Untrimmed Videos: A Large-Scale Benchmark and Baseline",
+      "section": "## 📉Down-Streaming Understanding Benchmark",
+      "resources": [
+        [
+          "Data",
+          "https://huggingface.co/datasets/ttgeng233/UnAV-100"
+        ],
+        [
+          "Code",
+          "https://github.com/ttgeng233/UnAV"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2007.10558",
+      "title": "Unified Multisensory Perception: Weakly-Supervised Audio-Visual Video Parsing",
+      "section": "## 📉Down-Streaming Understanding Benchmark",
+      "resources": [
+        [
+          "Data and code",
+          "https://github.com/YapengTian/AVVP-ECCV20"
+        ]
+      ],
+      "note": null
+    },
+    {
+      "paper_id": "2110.05122",
+      "title": "Pano-AVQA: Grounded Audio-Visual Question Answering on 360 Videos",
+      "section": "## 📉Down-Streaming Understanding Benchmark",
+      "resources": [
+        [
+          "Code",
+          "https://github.com/HS-YN/PanoAVQA"
+        ]
+      ],
+      "note": "Data release pending"
+    }
+  ],
+  "hf_metadata_checks": [
+    {
+      "url": "https://huggingface.co/EurekaTian/ROMA",
+      "repo": "EurekaTian/ROMA",
+      "kind": "models",
+      "private": false,
+      "gated": false,
+      "file_count": 18,
+      "payload_count": 16,
+      "sample_files": [
+        "added_tokens.json",
+        "architecture.png",
+        "chat_template.json",
+        "config.json"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/JettZhou/PhysVLM-Qwen2.5-3B",
+      "repo": "JettZhou/PhysVLM-Qwen2.5-3B",
+      "kind": "models",
+      "private": false,
+      "gated": false,
+      "file_count": 13,
+      "payload_count": 11,
+      "sample_files": [
+        "added_tokens.json",
+        "config.json",
+        "generation_config.json",
+        "merges.txt"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/Jinxing1/TGS-Agent",
+      "repo": "Jinxing1/TGS-Agent",
+      "kind": "models",
+      "private": false,
+      "gated": false,
+      "file_count": 12,
+      "payload_count": 10,
+      "sample_files": [
+        "epochs6_lr1e-4_bs4_gradacc8_lora_r8alpha16dropout0.05/adapter_config.json",
+        "epochs6_lr1e-4_bs4_gradacc8_lora_r8alpha16dropout0.05/adapter_model.safetensors",
+        "epochs6_lr1e-4_bs4_gradacc8_lora_r8alpha16dropout0.05/checkpoint-551/config.json",
+        "epochs6_lr1e-4_bs4_gradacc8_lora_r8alpha16dropout0.05/checkpoint-551/finetune_weights.bin"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/MuyeHuang/DuplexOmni",
+      "repo": "MuyeHuang/DuplexOmni",
+      "kind": "models",
+      "private": false,
+      "gated": false,
+      "file_count": 29,
+      "payload_count": 27,
+      "sample_files": [
+        "added_tokens.json",
+        "args.json",
+        "chat_template.jinja",
+        "config.json"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/TencentARC/ARC-Hunyuan-Video-7B",
+      "repo": "TencentARC/ARC-Hunyuan-Video-7B",
+      "kind": "models",
+      "private": false,
+      "gated": false,
+      "file_count": 14,
+      "payload_count": 12,
+      "sample_files": [
+        "LICENSE",
+        "config.json",
+        "generation_config.json",
+        "hunyuan.tiktoken"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/Adu2021/ModelCompose",
+      "repo": "Adu2021/ModelCompose",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 31,
+      "payload_count": 29,
+      "sample_files": [
+        "test/MCUB-3-audio-video-pointcloud.json",
+        "test/MCUB-3-image-audio-pointcloud.json",
+        "test/MCUB-3-image-audio-video.json",
+        "test/MCUB-3-image-video-pointcloud.json"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/Catalan258/thinkomni_eval",
+      "repo": "Catalan258/thinkomni_eval",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 1006,
+      "payload_count": 1004,
+      "sample_files": [
+        "Daily-Omni/Videos.tar",
+        "Daily-Omni/qa.json",
+        "MMAU/mmau-test-mini.json",
+        "MMAU/test-mini-audios/00127c2e-75eb-40ce-8c0c-1b886c6d5316.wav"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/EurekaTian/ROMA_proactive",
+      "repo": "EurekaTian/ROMA_proactive",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 7,
+      "payload_count": 5,
+      "sample_files": [
+        "alert.jsonl",
+        "alert.tar.gz",
+        "dataset.png",
+        "narration.jsonl"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/FudanCVL/OmniAVS",
+      "repo": "FudanCVL/OmniAVS",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 15,
+      "payload_count": 13,
+      "sample_files": [
+        "OmniAVS_release.zip",
+        "annotation_jsonl/aishell2_asr_zh_train_47200.jsonl",
+        "annotation_jsonl/auto_acd_audioset_train_1695912.jsonl",
+        "annotation_jsonl/auto_acd_vggsound_train_159917.jsonl"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/Harland/OmniVChat",
+      "repo": "Harland/OmniVChat",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 3551,
+      "payload_count": 3547,
+      "sample_files": [
+        ".gitignore",
+        "LICENSE",
+        "assets/figure2_studio.png",
+        "assets/figure3_bench.png"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/Jinxing1/TGSAgent-FT-data",
+      "repo": "Jinxing1/TGSAgent-FT-data",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 2,
+      "payload_count": 1,
+      "sample_files": [
+        "RefThinker_instruction_tuning_set.json"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/MuyeHuang/DuplexOmni-Data",
+      "repo": "MuyeHuang/DuplexOmni-Data",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 5,
+      "payload_count": 3,
+      "sample_files": [
+        "inbound.director.jsonl",
+        "outbound.director.jsonl",
+        "train_e2e_codec_000000.parquet"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/OpenMOSS-Team/FutureOmni",
+      "repo": "OpenMOSS-Team/FutureOmni",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 8,
+      "payload_count": 6,
+      "sample_files": [
+        "futureomni-7k.json",
+        "futureomni_test.json",
+        "logo0.png",
+        "test_splitted_videos_part_aa"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/TencentARC/ShortVid-Bench",
+      "repo": "TencentARC/ShortVid-Bench",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 1003,
+      "payload_count": 1001,
+      "sample_files": [
+        "ShortVid-Bench-1k.json",
+        "videos/-0J1uWKJKfk.mp4",
+        "videos/-32uRUUd-KU.mp4",
+        "videos/-7dHm4baH38.mp4"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/ZhangHanXD/AvaMERG",
+      "repo": "ZhangHanXD/AvaMERG",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 8,
+      "payload_count": 6,
+      "sample_files": [
+        "test.json",
+        "test_audio.zip",
+        "test_video.zip",
+        "train.json"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/dorni/SpeakerVid-5M-Dataset",
+      "repo": "dorni/SpeakerVid-5M-Dataset",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 140,
+      "payload_count": 138,
+      "sample_files": [
+        "SFT_set.json",
+        "all_data_list.json",
+        "merged_anno/tar_batch_01.tar.gz",
+        "merged_anno/tar_batch_02.tar.gz"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/gorjanradevski/dave",
+      "repo": "gorjanradevski/dave",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 10,
+      "payload_count": 8,
+      "sample_files": [
+        "assets/.keep",
+        "assets/teaser.png",
+        "croissant.json",
+        "dave.py"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/jankin123/OmniVideo-R1",
+      "repo": "jankin123/OmniVideo-R1",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 4,
+      "payload_count": 2,
+      "sample_files": [
+        "merged_train_all_qi.jsonl",
+        "merged_train_fusion_ma.jsonl"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/liarliar/Daily-Omni",
+      "repo": "liarliar/Daily-Omni",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 4,
+      "payload_count": 2,
+      "sample_files": [
+        "Videos.tar",
+        "qa.json"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/mlfu7/Touch-Vision-Language-Dataset",
+      "repo": "mlfu7/Touch-Vision-Language-Dataset",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 14,
+      "payload_count": 12,
+      "sample_files": [
+        "img/splash_figure_alt.png",
+        "labels/alpaca_gpt4_data.json",
+        "labels/cc3m.csv",
+        "labels/llava_instruct_150k_new.json"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/reml-group/FortisAVQA",
+      "repo": "reml-group/FortisAVQA",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 5,
+      "payload_count": 3,
+      "sample_files": [
+        "fortisavqa-head.json",
+        "fortisavqa-headtail.json",
+        "fortisavqa-tail.json"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/tsinghua-ee/AVUTBenchmark",
+      "repo": "tsinghua-ee/AVUTBenchmark",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 3287,
+      "payload_count": 3285,
+      "sample_files": [
+        "-39HwxXLsAE.mp4",
+        "-4I0sW4vR7w.mp4",
+        "-4I0sW4vR7w_fullsize.mp4",
+        "-5nPXFUUHIM.mp4"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/tsinghua-ee/video-SALMONN_2_testset",
+      "repo": "tsinghua-ee/video-SALMONN_2_testset",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 488,
+      "payload_count": 486,
+      "sample_files": [
+        "eval.py",
+        "llavavideo_train13k_id.json",
+        "video/0.mp4",
+        "video/1.mp4"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/ttgeng233/LongVALE",
+      "repo": "ttgeng233/LongVALE",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 68,
+      "payload_count": 66,
+      "sample_files": [
+        "checkpoints/BEATs_iter3_plus_AS20K.pt",
+        "checkpoints/ViT-L-14.pt",
+        "checkpoints/longvalellm-vicuna-v1-5-7b.tar.gz",
+        "checkpoints/vtimellm_stage1_mm_projector.bin"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/ttgeng233/UnAV-100",
+      "repo": "ttgeng233/UnAV-100",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 18,
+      "payload_count": 16,
+      "sample_files": [
+        "data/test.parquet",
+        "data/train.parquet",
+        "data/validation.parquet",
+        "unav_raw_videos.tar.gz.part_00"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/uwneuroai/SAVVY-Bench",
+      "repo": "uwneuroai/SAVVY-Bench",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 4,
+      "payload_count": 2,
+      "sample_files": [
+        "LICENSE",
+        "savvy_bench.jsonl"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/yejunliang23/3D-Alpaca",
+      "repo": "yejunliang23/3D-Alpaca",
+      "kind": "datasets",
+      "private": false,
+      "gated": false,
+      "file_count": 9,
+      "payload_count": 7,
+      "sample_files": [
+        "assets/1",
+        "assets/dataset.png",
+        "assets/head.jpg",
+        "edit_data.json"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/datasets/zinuoli/TriSense-2M",
+      "repo": "zinuoli/TriSense-2M",
+      "kind": "datasets",
+      "private": false,
+      "gated": "auto",
+      "file_count": 7,
+      "payload_count": 5,
+      "sample_files": [
+        "TriSense-2M-After-Judger.json",
+        "stage1.json",
+        "stage2.json",
+        "stage3.json"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/tsinghua-ee/video-SALMONN-2",
+      "repo": "tsinghua-ee/video-SALMONN-2",
+      "kind": "models",
+      "private": false,
+      "gated": false,
+      "file_count": 14,
+      "payload_count": 12,
+      "sample_files": [
+        "added_tokens.json",
+        "config.json",
+        "generation_config.json",
+        "model-00001-of-00004.safetensors"
+      ]
+    },
+    {
+      "url": "https://huggingface.co/yejunliang23/ShapeLLM-7B-omni",
+      "repo": "yejunliang23/ShapeLLM-7B-omni",
+      "kind": "models",
+      "private": false,
+      "gated": false,
+      "file_count": 20,
+      "payload_count": 18,
+      "sample_files": [
+        "added_tokens.json",
+        "assets/head.jpg",
+        "chat_template.json",
+        "config.json"
+      ]
+    }
+  ],
+  "unconfirmed": [
+    {
+      "paper_id": "2608.09435",
+      "title": "Listen, See and Track: Spatio-Temporal Audio-Visual Sound Event Reasoning for Omni-Modal Language Models",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2605.25621",
+      "title": "StreamOV: Streaming Omni-Video Understanding via Evidence-Guided Memory and Response Triggering",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2604.15804",
+      "title": "Qwen3.5-Omni Technical Report",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2601.13143",
+      "title": "FastAV: Efficient Token Pruning for Audio-Visual Large Language Model Inference",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2510.04136",
+      "title": "MoME: Mixture of Matryoshka Experts for Audio-Visual Speech Recognition",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2503.23830",
+      "title": "OrchMLLM: Orchestrate Multimodal Data with Batch Post-Balancing to Accelerate Multimodal Large Language Model Training",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2503.22208",
+      "title": "DeepSound-V1: Start to Think Step-by-Step in the Audio Generation from Videos",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2503.06362",
+      "title": "Adaptive Audio-Visual Speech Recognition via Matryoshka-Based Multimodal LLMs",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2412.17572",
+      "title": "Empathetic Response in Audio-Visual Conversations Using Emotion Preference Optimization and MambaCompressor",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2411.05903",
+      "title": "Towards Multi-Modal Mastery: A 4.5B Parameter Truly Multi-Modal Small Language Model",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2410.12109",
+      "title": "OMCAT Omni Context Aware Transformer",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2410.06682",
+      "title": "Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2405.19335",
+      "title": "X-VILA: Cross-Modality Alignment for Large Language Model",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2312.06720",
+      "title": "Audio-Visual LLM for Video Understanding",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2606.23623",
+      "title": "dVLA-RL: Reinforcement Learning over Denoising Trajectories for Discrete Diffusion Vision-Language-Action Models",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2510.13721",
+      "title": "NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2410.10851",
+      "title": "LLM Gesticulator: Leveraging Large Language Models for Scalable and Controllable Co-Speech Gesture Synthesis",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2409.03272",
+      "title": "OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2311.04589",
+      "title": "TEAL: Tokenize and Embed ALL for Multi-modal Large Language Models",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2412.08442",
+      "title": "From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2406.07904",
+      "title": "Grounding Multimodal Large Language Models in Actions",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2503.21699",
+      "title": "MAVERIX: Multimodal Audio-Visual Evaluation Reasoning IndeX",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2508.04361",
+      "title": "OmniGuard: Unified Omni-Modal Guardrails with Deliberate Reasoning",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    },
+    {
+      "paper_id": "2406.03701",
+      "title": "Recognizing Everything from All Modalities at Once: Grounded Multimodal Universal Information Extraction",
+      "status": "No matching code/data release confirmed; this does not establish non-release."
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "candidate": "https://github.com/JiuTian-VL/MoME",
+      "reason": "Different paper (2407.12709), not MoME ASR (2510.04136)."
+    },
+    {
+      "candidate": "https://github.com/ritzz-ai/Next-OMNI",
+      "reason": "Paper-linked repository returned 404."
+    },
+    {
+      "candidate": "https://github.com/OpenMOSS/FutureOmni",
+      "reason": "Project webpage only; use released HF evaluation dataset."
+    }
+  ],
+  "corrections": [
+    {
+      "paper": "OmniGuard",
+      "old_arxiv": "2508.04361",
+      "correct_arxiv": "2512.02306"
+    },
+    {
+      "paper": "VoiceAssistant-Eval",
+      "old_arxiv": "2508.10576",
+      "correct_arxiv": "2509.22651"
+    },
+    {
+      "paper": "HumanSense / VGGSounder",
+      "reason": "Resources were assigned to the wrong paper."
+    },
+    {
+      "paper": "OmniEval",
+      "reason": "Removed unrelated Daily-Omni dataset link; paper-linked homepage returns 404."
+    }
+  ],
+  "limitations": [
+    "Baidu and SharePoint author download links were checked against official documentation; end-to-end downloads and login access were not tested.",
+    "DuplexOmni data release includes metadata and one shard, not the complete dataset.",
+    "TriSense-2M requires access approval.",
+    "LatentOmni code is present; model checkpoints and dataset are pending."
+  ],
+  "additional_hf_metadata_checks": [
+    {
+      "repo": "antgroup/HumanSense_Benchmark",
+      "private": false,
+      "gated": false,
+      "file_count": 15,
+      "sample_files": [
+        ".gitattributes",
+        "README.md",
+        "bench_data/HumanSense_AQA.json",
+        "bench_data/HumanSense_VQA.json",
+        "bench_data/audios.zip",
+        "bench_data/videos.zip",
+        "figure1.png",
+        "figure2.png",
+        "pic.png",
+        "table1.png",
+        "train_data/audios.zip",
+        "train_data/merged_audio.json"
+      ]
+    },
+    {
+      "repo": "MathLLMs/VoiceAssistant-Eval",
+      "private": false,
+      "gated": false,
+      "file_count": 15,
+      "sample_files": [
+        ".gitattributes",
+        "README.md",
+        "listening/test_listening_general.parquet",
+        "listening/test_listening_music.parquet",
+        "listening/test_listening_sound.parquet",
+        "listening/test_listening_speech.parquet",
+        "speaking/test_speaking_assistant.parquet",
+        "speaking/test_speaking_emotion.parquet",
+        "speaking/test_speaking_instruction_following.parquet",
+        "speaking/test_speaking_multi_round.parquet",
+        "speaking/test_speaking_reasoning.parquet",
+        "speaking/test_speaking_robustness.parquet"
+      ]
+    }
+  ]
+}
